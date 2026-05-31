@@ -7,9 +7,10 @@ interface GapFillProps {
   correctAnswer: string;
   distractors: string[];
   onAnswer: (isCorrect: boolean, answer: string) => void;
+  disabled?: boolean;
 }
 
-export default function GapFill({ prompt, sentence, correctAnswer, distractors, onAnswer }: GapFillProps) {
+export default function GapFill({ prompt, sentence, correctAnswer, distractors, onAnswer, disabled }: GapFillProps) {
   const [selected, setSelected] = useState<string | null>(null);
   const words = [...distractors, correctAnswer].sort(() => Math.random() - 0.5);
 
@@ -19,9 +20,9 @@ export default function GapFill({ prompt, sentence, correctAnswer, distractors, 
     <div className="flex flex-col items-center gap-8 w-full max-w-2xl mx-auto">
       <h2 className="text-2xl font-bold text-center">{prompt}</h2>
       
-      <div className="text-xl flex flex-wrap items-center justify-center gap-2 leading-loose">
+      <div className="text-2xl flex flex-wrap items-center justify-center gap-3 leading-loose">
         {parts[0]}
-        <div className="min-w-[100px] h-10 border-b-2 border-accent flex items-center justify-center px-4">
+        <div className={`min-w-[120px] h-12 border-b-4 ${selected ? 'border-accent' : 'border-gray-700'} flex items-center justify-center px-4 transition-colors`}>
           <AnimatePresence mode="wait">
             {selected && (
               <motion.span
@@ -29,8 +30,8 @@ export default function GapFill({ prompt, sentence, correctAnswer, distractors, 
                 initial={{ y: 20, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 exit={{ y: -20, opacity: 0 }}
-                className="text-accent font-bold cursor-pointer"
-                onClick={() => setSelected(null)}
+                className="text-accent font-black cursor-pointer"
+                onClick={() => !disabled && setSelected(null)}
               >
                 {selected}
               </motion.span>
@@ -40,14 +41,16 @@ export default function GapFill({ prompt, sentence, correctAnswer, distractors, 
         {parts[1]}
       </div>
 
-      <div className="flex flex-wrap gap-3 justify-center mt-8">
+      <div className="flex flex-wrap gap-4 justify-center mt-8">
         {words.map((word, i) => (
           <motion.button
             key={i}
-            whileTap={{ scale: 0.9 }}
+            disabled={disabled}
+            whileTap={!disabled ? { scale: 0.9 } : {}}
             onClick={() => setSelected(word)}
-            className={`px-6 py-2 bg-card rounded-xl border-b-4 border-gray-800 shadow-md ${
-              selected === word ? 'opacity-50 pointer-events-none' : ''
+            className={`px-8 py-3 bg-card rounded-2xl border-b-4 border-gray-800 shadow-md font-bold transition-all ${
+              selected === word ? 'opacity-30 pointer-events-none' :
+              disabled ? 'opacity-50' : 'hover:border-gray-600'
             }`}
           >
             {word}
@@ -56,15 +59,15 @@ export default function GapFill({ prompt, sentence, correctAnswer, distractors, 
       </div>
 
       <button
-        disabled={!selected}
+        disabled={!selected || disabled}
         onClick={() => onAnswer(selected === correctAnswer, selected || '')}
-        className={`mt-8 px-10 py-3 rounded-xl font-bold transition-all shadow-lg ${
-          selected 
-            ? 'bg-orchid text-white hover:brightness-110' 
-            : 'bg-gray-700 text-gray-500 cursor-not-allowed'
+        className={`mt-8 px-12 py-4 rounded-2xl font-black text-lg transition-all shadow-xl transform active:scale-95 ${
+          selected && !disabled
+            ? 'bg-orchid text-white hover:brightness-110 shadow-orchid/20'
+            : 'bg-gray-800 text-gray-600 cursor-not-allowed opacity-50'
         }`}
       >
-        Check
+        SPRAWDŹ
       </button>
     </div>
   );
