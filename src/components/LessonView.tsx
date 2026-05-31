@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import type { Lesson } from '../data/lessons';
+import type { Lesson } from '../data/types';
 import Leon3D from './Leon3D';
 import TapTranslate from './TapTranslate';
 import MultipleChoice from './MultipleChoice';
@@ -60,6 +60,7 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
 
   const renderQuestion = () => {
     switch (currentQuestion.type) {
+      case 'translate':
       case 'tap-translate':
         return (
           <TapTranslate
@@ -137,6 +138,11 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
               animate={{ x: 0, opacity: 1 }}
               exit={{ x: -20, opacity: 0 }}
             >
+              <div className="mb-4 text-center">
+                <span className="px-4 py-1 bg-card border border-gray-800 rounded-full text-xs text-gray-500 uppercase tracking-widest font-bold">
+                  {currentQuestion.instruction || 'Zadanie'}
+                </span>
+              </div>
               {renderQuestion()}
             </motion.div>
           </AnimatePresence>
