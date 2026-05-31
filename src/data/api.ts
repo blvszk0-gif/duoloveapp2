@@ -1,4 +1,4 @@
-import type { Question, Lesson } from './types';
+import type { Lesson } from './types';
 import { setQuotes } from '../utils/quotes';
 
 const EN_URL = "/data/enVocab_fixed.json";
@@ -16,7 +16,7 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
     ]);
 
     if (!enRes.ok || !esRes.ok || !quotesRes.ok) {
-        throw new Error("Failed to load local data files");
+        throw new Error(`Failed to load data: EN:${enRes.status}, ES:${esRes.status}, Q:${quotesRes.status}`);
     }
 
     const enQuestions: any[] = await enRes.json();

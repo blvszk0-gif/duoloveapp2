@@ -20,7 +20,7 @@ function App() {
         const data = await fetchLessons()
         setLessons(data)
       } catch (err) {
-        setError('Nie udało się pobrać lekcji z Dysku Google. Sprawdź połączenie.')
+        setError('Nie udało się pobrać bazy lekcji. Sprawdź połączenie.')
       } finally {
         setLoading(false)
       }
