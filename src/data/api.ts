@@ -1,9 +1,11 @@
-import type { Lesson } from './types';
+import type { Question, Lesson } from './types';
 import { setQuotes } from '../utils/quotes';
 
-const EN_URL = "https://docs.google.com/uc?export=download&id=1mRhaGP3rvRfb0sNVUy9haRIDDoSnYANz";
-const ES_URL = "https://docs.google.com/uc?export=download&id=1Y4Sn1WON8d8uYhNW3K8kghPUh3CHZ9bK";
-const QUOTES_URL = "https://docs.google.com/uc?export=download&id=1SD9BOR6FuLdR9dXSweH7lXC80OoNKAd9";
+const EN_URL = "/data/enVocab_fixed.json";
+const ES_URL = "/data/esVocab_fixed.json";
+const QUOTES_URL = "/data/quotes.txt";
+
+const CHUNK_SIZE = 20;
 
 export const fetchLessons = async (): Promise<Lesson[]> => {
   try {
@@ -12,6 +14,10 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
       fetch(ES_URL),
       fetch(QUOTES_URL)
     ]);
+
+    if (!enRes.ok || !esRes.ok || !quotesRes.ok) {
+        throw new Error("Failed to load local data files");
+    }
 
     const enQuestions: any[] = await enRes.json();
     const esQuestions: any[] = await esRes.json();
@@ -23,29 +29,40 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
         setQuotes(extractedQuotes);
     }
 
-    const enLesson: Lesson = {
-      id: 'en-vocab',
-      title: 'English Vocabulary',
-      category: 'English',
-      questions: enQuestions.map(q => ({
+    const processQuestions = (questions: any[]) => questions.map(q => ({
         ...q,
         type: q.type === 'translate' ? 'tap-translate' : q.type,
         distractors: q.distractors || ['word1', 'word2', 'word3']
-      }))
-    };
+    }));
 
-    const esLesson: Lesson = {
-      id: 'es-vocab',
-      title: 'Spanish Vocabulary',
-      category: 'Spanish',
-      questions: esQuestions.map(q => ({
-        ...q,
-        type: q.type === 'translate' ? 'tap-translate' : q.type,
-        distractors: q.distractors || ['palabra1', 'palabra2', 'palabra3']
-      })).filter(q => !q.correctAnswer.includes("MYMEMORY WARNING"))
-    };
+    const validEn = processQuestions(enQuestions);
+    const validEs = processQuestions(esQuestions).filter(q => !q.correctAnswer.includes("MYMEMORY WARNING"));
 
-    return [enLesson, esLesson];
+    const lessons: Lesson[] = [];
+
+    // Chunk English
+    for (let i = 0; i < validEn.length; i += CHUNK_SIZE) {
+        const chunk = validEn.slice(i, i + CHUNK_SIZE);
+        lessons.push({
+            id: `en-${i / CHUNK_SIZE + 1}`,
+            title: `Angielski - Lekcja ${i / CHUNK_SIZE + 1}`,
+            category: 'English',
+            questions: chunk
+        });
+    }
+
+    // Chunk Spanish
+    for (let i = 0; i < validEs.length; i += CHUNK_SIZE) {
+        const chunk = validEs.slice(i, i + CHUNK_SIZE);
+        lessons.push({
+            id: `es-${i / CHUNK_SIZE + 1}`,
+            title: `Hiszpański - Lekcja ${i / CHUNK_SIZE + 1}`,
+            category: 'Spanish',
+            questions: chunk
+        });
+    }
+
+    return lessons;
   } catch (error) {
     console.error("Error fetching lessons:", error);
     throw error;
