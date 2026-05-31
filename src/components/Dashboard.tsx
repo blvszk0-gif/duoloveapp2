@@ -1,25 +1,26 @@
-import { LESSONS } from '../data/lessons';
-import type { Lesson, Category } from '../data/lessons';
+import type { Lesson, Category } from '../data/types';
 import { Languages, Lock, CheckCircle, Star } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 interface DashboardProps {
   onStartLesson: (lesson: Lesson) => void;
   completedLessonIds: string[];
+  lessons: Lesson[];
 }
 
-export default function Dashboard({ onStartLesson, completedLessonIds }: DashboardProps) {
-  const categories: Category[] = ['Biznesowe', 'Slang', 'Codzienne'];
+export default function Dashboard({ onStartLesson, completedLessonIds, lessons }: DashboardProps) {
+  // Use unique categories from fetched lessons
+  const categories: Category[] = Array.from(new Set(lessons.map(l => l.category)));
 
-  const totalLessons = LESSONS.filter(l => categories.includes(l.category)).length;
+  const totalLessons = lessons.length;
   const completedCount = completedLessonIds.filter(id =>
-    LESSONS.find(l => l.id === id && categories.includes(l.category))
+    lessons.find(l => l.id === id)
   ).length;
 
-  const overallProgress = (completedCount / totalLessons) * 100;
+  const overallProgress = totalLessons > 0 ? (completedCount / totalLessons) * 100 : 0;
 
   const isUnlocked = (lesson: Lesson) => {
-    const categoryLessons = LESSONS.filter(l => l.category === lesson.category);
+    const categoryLessons = lessons.filter(l => l.category === lesson.category);
     const index = categoryLessons.findIndex(l => l.id === lesson.id);
     if (index === 0) return true;
     return completedLessonIds.includes(categoryLessons[index - 1].id);
@@ -55,7 +56,7 @@ export default function Dashboard({ onStartLesson, completedLessonIds }: Dashboa
               {category}
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {LESSONS.filter(l => l.category === category).map((lesson) => {
+              {lessons.filter(l => l.category === category).map((lesson) => {
                 const completed = completedLessonIds.includes(lesson.id);
                 const unlocked = isUnlocked(lesson);
 
