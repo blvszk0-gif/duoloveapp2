@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 interface MatchPairsProps {
   pairs: { id: string; native: string; target: string }[];
   onComplete: () => void;
+  disabled?: boolean;
 }
 
 interface Item {
@@ -13,7 +14,7 @@ interface Item {
   originalId: string;
 }
 
-export default function MatchPairs({ pairs, onComplete }: MatchPairsProps) {
+export default function MatchPairs({ pairs, onComplete, disabled }: MatchPairsProps) {
   const [items, setItems] = useState<Item[]>([]);
   const [selected, setSelected] = useState<Item | null>(null);
   const [matched, setMatched] = useState<string[]>([]);
@@ -26,20 +27,17 @@ export default function MatchPairs({ pairs, onComplete }: MatchPairsProps) {
   }, [pairs]);
 
   const handleSelect = (item: Item) => {
-    if (matched.includes(item.id) || wrong) return;
+    if (disabled || matched.includes(item.id) || wrong) return;
 
     if (!selected) {
       setSelected(item);
     } else if (selected.id === item.id) {
       setSelected(null);
     } else {
-      // Check for match
       if (selected.originalId === item.originalId && selected.type !== item.type) {
-        // Success
         setMatched(prev => [...prev, selected.id, item.id]);
         setSelected(null);
       } else {
-        // Failure
         setWrong({ id1: selected.id, id2: item.id });
         setTimeout(() => {
           setWrong(null);
@@ -57,7 +55,7 @@ export default function MatchPairs({ pairs, onComplete }: MatchPairsProps) {
 
   return (
     <div className="w-full max-w-2xl mx-auto">
-      <h2 className="text-2xl font-bold text-center mb-8">Match the pairs</h2>
+      <h2 className="text-2xl font-bold text-center mb-8">Połącz pary</h2>
       <div className="grid grid-cols-2 gap-4">
         {items.map((item) => {
           const isSelected = selected?.id === item.id;
@@ -67,13 +65,15 @@ export default function MatchPairs({ pairs, onComplete }: MatchPairsProps) {
           return (
             <motion.button
               key={item.id}
+              disabled={disabled || isMatched}
               onClick={() => handleSelect(item)}
               animate={isWrong ? { x: [-5, 5, -5, 5, 0] } : {}}
-              className={`p-4 h-16 rounded-xl border-2 font-medium transition-all ${
-                isMatched ? 'bg-success/20 border-success opacity-50' :
+              className={`p-4 h-20 rounded-2xl border-2 font-bold transition-all shadow-md ${
+                isMatched ? 'bg-success/20 border-success text-success/50 cursor-default shadow-none' :
                 isWrong ? 'bg-red-500/20 border-red-500' :
-                isSelected ? 'bg-orchid/20 border-orchid' :
-                'bg-card border-gray-700 hover:border-gray-500'
+                isSelected ? 'bg-orchid/20 border-orchid text-orchid' :
+                disabled ? 'bg-card border-gray-800 opacity-50' :
+                'bg-card border-gray-800 hover:border-gray-600'
               }`}
             >
               {item.text}

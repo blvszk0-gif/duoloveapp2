@@ -5,12 +5,18 @@ import type { Lesson } from './data/lessons'
 
 function App() {
   const [currentLesson, setCurrentLesson] = useState<Lesson | null>(null)
+  const [completedLessonIds, setCompletedLessonIds] = useState<string[]>([])
   const [lastScore, setLastScore] = useState<number | null>(null)
 
   useEffect(() => {
-    const saved = localStorage.getItem('duolove_last_score')
-    if (saved) {
-      setLastScore(parseInt(saved))
+    const savedCompleted = localStorage.getItem('duolove_completed_lessons')
+    if (savedCompleted) {
+      setCompletedLessonIds(JSON.parse(savedCompleted))
+    }
+
+    const savedScore = localStorage.getItem('duolove_last_score')
+    if (savedScore) {
+      setLastScore(parseInt(savedScore))
     }
   }, [])
 
@@ -19,6 +25,12 @@ function App() {
   }
 
   const handleExitLesson = (score: number) => {
+    if (currentLesson && score >= currentLesson.questions.length * 0.8) {
+      const newCompleted = [...new Set([...completedLessonIds, currentLesson.id])]
+      setCompletedLessonIds(newCompleted)
+      localStorage.setItem('duolove_completed_lessons', JSON.stringify(newCompleted))
+    }
+
     localStorage.setItem('duolove_last_score', score.toString())
     setLastScore(score)
     setCurrentLesson(null)
@@ -29,11 +41,14 @@ function App() {
       {!currentLesson ? (
         <div className="container mx-auto">
           {lastScore !== null && (
-            <div className="absolute top-4 right-4 p-3 bg-card rounded-xl border border-accent/30 text-sm">
+            <div className="fixed top-4 right-4 p-3 bg-card rounded-xl border border-accent/30 text-sm z-50">
               Last Session Score: <span className="text-accent font-bold">{lastScore}</span>
             </div>
           )}
-          <Dashboard onStartLesson={handleStartLesson} />
+          <Dashboard
+            onStartLesson={handleStartLesson}
+            completedLessonIds={completedLessonIds}
+          />
         </div>
       ) : (
         <LessonView lesson={currentLesson} onExit={handleExitLesson} />
