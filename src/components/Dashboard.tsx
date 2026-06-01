@@ -2,6 +2,8 @@ import { useState } from 'react';
 import type { Lesson, Category } from '../data/types';
 import { Languages, Lock, CheckCircle, Star, Trash2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import Leon3D from './Leon3D';
+import QuotesMarquee from './QuotesMarquee';
 
 interface DashboardProps {
   onStartLesson: (lesson: Lesson) => void;
@@ -41,18 +43,29 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
   };
 
   return (
-    <div className="flex flex-col items-center py-12 px-4 max-w-5xl mx-auto">
-      <header className="w-full mb-12 text-center">
-        <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-accent to-orchid mb-6">
-          DuoLove
-        </h1>
-
-        <div className="max-w-md mx-auto bg-card p-6 rounded-3xl border border-gray-800 shadow-xl mb-8">
-          <div className="flex justify-between items-center mb-2">
-            <span className="font-bold text-gray-400">Postęp: {selectedLang === 'English' ? 'Angielski' : 'Hiszpański'}</span>
-            <span className="text-accent font-black">{Math.round(progress)}% ({completedCount}/{totalLessons})</span>
+    <div className="flex flex-col lg:flex-row gap-8 py-12 px-4 max-w-7xl mx-auto">
+      {/* Sidebar with Leon and Quotes */}
+      <aside className="lg:w-1/3 flex flex-col gap-6 lg:sticky lg:top-12 lg:h-[calc(100vh-6rem)]">
+        <div className="flex-1 bg-card rounded-[3rem] border border-gray-800 shadow-2xl overflow-hidden flex flex-col">
+          <div className="h-2/3 bg-gradient-to-b from-accent/10 to-transparent relative">
+            <Leon3D />
+            <div className="absolute bottom-4 left-0 right-0 text-center">
+              <span className="bg-background/80 backdrop-blur-md px-4 py-2 rounded-full border border-accent/20 text-xs font-bold text-accent uppercase tracking-widest">
+                Leon Kennedy
+              </span>
+            </div>
           </div>
-          <div className="h-4 bg-gray-900 rounded-full overflow-hidden border border-gray-800">
+          <div className="flex-1 p-2">
+            <QuotesMarquee />
+          </div>
+        </div>
+
+        <div className="bg-card p-6 rounded-3xl border border-gray-800 shadow-xl">
+          <div className="flex justify-between items-center mb-4">
+            <span className="font-bold text-gray-400">Status nauki</span>
+            <span className="text-accent font-black">{Math.round(progress)}%</span>
+          </div>
+          <div className="h-3 bg-gray-900 rounded-full overflow-hidden border border-gray-800 mb-2">
             <motion.div
               key={selectedLang}
               initial={{ width: 0 }}
@@ -60,9 +73,21 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
               className="h-full bg-gradient-to-r from-accent to-orchid"
             />
           </div>
+          <p className="text-[10px] text-gray-500 text-center uppercase tracking-tighter">
+            {completedCount} z {totalLessons} lekcji ukończonych
+          </p>
         </div>
+      </aside>
 
-        <div className="flex gap-4 justify-center bg-gray-900/50 p-2 rounded-2xl border border-gray-800 w-fit mx-auto">
+      {/* Main Learning Path */}
+      <main className="flex-1">
+      <header className="w-full mb-12">
+        <h1 className="text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-accent via-orchid to-accent animate-gradient-x mb-8">
+          DuoLove
+        </h1>
+
+        <div className="flex justify-between items-center mb-12">
+        <div className="flex gap-4 bg-gray-900/50 p-2 rounded-2xl border border-gray-800 w-fit">
           <button
             onClick={() => setSelectedLang('English')}
             className={`px-8 py-3 rounded-xl font-bold transition-all ${
@@ -83,6 +108,14 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
           >
             Hiszpański
           </button>
+        </div>
+
+        <button
+            onClick={handleReset}
+            className="flex items-center gap-2 text-red-500/30 hover:text-red-500 transition-colors text-[10px] font-bold uppercase tracking-widest"
+        >
+            <Trash2 size={12} /> Resetuj postęp
+        </button>
         </div>
       </header>
 
@@ -166,8 +199,9 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
         </motion.div>
         </AnimatePresence>
       </div>
+      </main>
 
-      <footer className="mt-16 flex flex-col items-center gap-4">
+      <footer className="hidden">
         <p className="text-gray-600 text-sm italic">
             Leon Kennedy czuwa nad Twoją nauką. Nie zawiedź go.
         </p>
