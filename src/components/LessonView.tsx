@@ -5,6 +5,8 @@ import TapTranslate from './TapTranslate';
 import MultipleChoice from './MultipleChoice';
 import GapFill from './GapFill';
 import MatchPairs from './MatchPairs';
+import Translate from './Translate';
+import ListenMatch from './ListenMatch';
 import { playAudio } from '../utils/audio';
 import { X, Volume2, ArrowRight, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -18,7 +20,6 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [status, setStatus] = useState<'idle' | 'correct' | 'incorrect'>('idle');
-  const [hasPlayedAudio, setHasPlayedAudio] = useState(false);
   const [showHint, setShowHint] = useState(false);
 
   const currentQuestion = lesson.questions[currentIndex];
@@ -29,24 +30,21 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
     if (isCorrect) {
       setScore(prev => prev + 1);
       setStatus('correct');
+      // Auto play audio on correct if it exists
+      if (currentQuestion.audioText && currentQuestion.lang) {
+          playAudio(currentQuestion.audioText, currentQuestion.lang);
+      }
     } else {
       setStatus('incorrect');
-      setHasPlayedAudio(false);
     }
   };
 
   const handleNext = () => {
-    if (status === 'incorrect' && !hasPlayedAudio && currentQuestion.audioText) {
-      return;
-    }
-
     if (currentIndex < lesson.questions.length - 1) {
       setCurrentIndex(prev => prev + 1);
       setStatus('idle');
-      setHasPlayedAudio(false);
       setShowHint(false);
     } else {
-      // Score was already incremented in handleAnswer
       onExit(score);
     }
   };
@@ -54,13 +52,22 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
   const playQuestionAudio = () => {
     if (currentQuestion.audioText && currentQuestion.lang) {
       playAudio(currentQuestion.audioText, currentQuestion.lang);
-      setHasPlayedAudio(true);
     }
   };
 
   const renderQuestion = () => {
+    // ExerciseFactory
     switch (currentQuestion.type) {
       case 'translate':
+        return (
+          <Translate
+            key={currentQuestion.id}
+            prompt={currentQuestion.prompt}
+            correctAnswer={currentQuestion.correctAnswer!}
+            onAnswer={handleAnswer}
+            disabled={status !== 'idle'}
+          />
+        );
       case 'tap-translate':
         return (
           <TapTranslate
@@ -103,6 +110,17 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
             disabled={status !== 'idle'}
           />
         );
+      case 'listen-match':
+        return (
+          <ListenMatch
+            key={currentQuestion.id}
+            audioText={currentQuestion.audioText!}
+            lang={currentQuestion.lang!}
+            options={currentQuestion.options!}
+            onAnswer={handleAnswer}
+            disabled={status !== 'idle'}
+          />
+        );
       default:
         return null;
     }
@@ -142,7 +160,7 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
                 <span className="px-4 py-1 bg-card border border-gray-800 rounded-full text-xs text-gray-500 uppercase tracking-widest font-bold">
                   {currentQuestion.instruction || 'Zadanie'}
                 </span>
-                {currentQuestion.audioText && (
+                {currentQuestion.audioText && currentQuestion.type !== 'listen-match' && (
                   <button
                     onClick={playQuestionAudio}
                     className="p-2 hover:bg-card rounded-full text-accent transition-colors"
@@ -219,10 +237,8 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
             {status !== 'idle' && (
               <button
                 onClick={handleNext}
-                disabled={status === 'incorrect' && !hasPlayedAudio && !!currentQuestion.audioText}
                 className={`px-12 py-4 rounded-2xl font-black text-lg flex items-center gap-2 shadow-xl transition-all transform active:scale-95 ${
                   status === 'correct' ? 'bg-success text-black hover:brightness-110' :
-                  (status === 'incorrect' && (!hasPlayedAudio && currentQuestion.audioText)) ? 'bg-gray-700 text-gray-500 cursor-not-allowed' :
                   'bg-red-500 text-white hover:brightness-110'
                 }`}
               >

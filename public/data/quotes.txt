@@ -1,4 +1,4 @@
-export let SUCCESS_QUOTES = [
+export const QUOTES: string[] = [
     "Maybe some spaghetti",
     "Śliczne kolczyki",
     "Uwielbiam Twoje oczy",
@@ -32,11 +32,3 @@ export let SUCCESS_QUOTES = [
     "Women...",
     "Ślicznie wyglądasz :3"
 ];
-
-export const setQuotes = (newQuotes: string[]) => {
-  SUCCESS_QUOTES = newQuotes;
-};
-
-export const getRandomQuote = () => {
-  return SUCCESS_QUOTES[Math.floor(Math.random() * SUCCESS_QUOTES.length)];
-};
