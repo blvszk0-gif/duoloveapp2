@@ -5,18 +5,26 @@ import { motion } from 'framer-motion';
 import { getRandomQuote } from '../utils/quotes';
 
 function LeonModel() {
-  // Using a simpler model or checking for errors
-  const { scene } = useGLTF('https://vazxmixjsiawhamofees.supabase.co/storage/v1/object/public/models/duck/model.gltf');
+  const { scene } = useGLTF('/models/duck.glb');
   
   return (
     <Float speed={2} rotationIntensity={0.5} floatIntensity={0.5}>
       <primitive
         object={scene}
-        scale={1.5}
-        position={[0, -1, 0]}
+          scale={0.15}
+          position={[-0.7, -1, 0]}
         rotation={[0, -0.2, 0]}
       />
     </Float>
+  );
+}
+
+function FallbackMesh() {
+  return (
+    <mesh position={[0, 0, 0]}>
+      <sphereGeometry args={[0.8, 32, 32]} />
+      <meshStandardMaterial color="#3b82f6" emissive="#1d4ed8" emissiveIntensity={0.5} />
+    </mesh>
   );
 }
 
@@ -39,7 +47,7 @@ export default function Leon3D({ animationState: _animationState = 'idle', showQ
           </motion.div>
       )}
       <Canvas camera={{ position: [0, 0, 5], fov: 45 }}>
-        <Suspense fallback={null}>
+        <Suspense fallback={<FallbackMesh />}>
           <ambientLight intensity={0.5} />
           <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} />
           <pointLight position={[-10, -10, -10]} />

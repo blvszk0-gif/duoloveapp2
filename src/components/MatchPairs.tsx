@@ -25,7 +25,8 @@ export default function MatchPairs({ pairs, onComplete, disabled, targetLang }: 
   const [wrong, setWrong] = useState<{ id1: string, id2: string } | null>(null);
 
   useEffect(() => {
-    const nativeItems: Item[] = pairs.map(p => ({ id: `n-${p.id}`, text: p.native, type: 'native', originalId: p.id, lang: 'pl-PL' }));
+    const nativeLang = targetLang === 'es-ES' ? 'en-US' : 'pl-PL';
+    const nativeItems: Item[] = pairs.map(p => ({ id: `n-${p.id}`, text: p.native, type: 'native', originalId: p.id, lang: nativeLang }));
     const targetItems: Item[] = pairs.map(p => ({ id: `t-${p.id}`, text: p.target, type: 'target', originalId: p.id, lang: targetLang || 'en-US' }));
     setItems([...nativeItems, ...targetItems].sort(() => Math.random() - 0.5));
   }, [pairs, targetLang]);
