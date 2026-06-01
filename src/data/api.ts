@@ -6,6 +6,7 @@ const CHUNK_SIZE = 20;
 /**
  * GitHub Gist RAW URLs.
  * UWAGA: Użytkownik musi podmienić te linki na swoje linki RAW z Gista.
+ * Jeśli zostawisz placeholder (gist-id), aplikacja użyje plików lokalnych z /public/data/.
  */
 const EN_URL = "https://gist.githubusercontent.com/user/gist-id-en/raw/en.json";
 const ES_URL = "https://gist.githubusercontent.com/user/gist-id-es/raw/es.json";
@@ -117,9 +118,15 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
   try {
     // Attempt to fetch from Gist, fallback to local /data/ during development/setup
     const fetchWithFallback = async (url: string, localPath: string) => {
+        // Skip if URL is just a placeholder to avoid 404 console errors
+        if (url.includes('gist-id')) {
+            return fetch(localPath);
+        }
+
         try {
             const res = await fetch(url);
             if (res.ok) return res;
+            console.warn(`Gist fetch failed for ${url}, falling back to local.`);
             return fetch(localPath);
         } catch {
             return fetch(localPath);
