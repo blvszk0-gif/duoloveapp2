@@ -16,6 +16,7 @@ export interface Question {
   options?: { id: string; text: string; correct: boolean }[];
   sentence?: string;
   pairs?: { id: string; native: string; target: string }[];
+  targetLang?: string;
   audioText?: string;
   lang?: string;
   hint?: string;

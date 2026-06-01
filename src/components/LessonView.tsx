@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import type { Lesson } from '../data/types';
 import Leon3D from './Leon3D';
 import TapTranslate from './TapTranslate';
@@ -21,6 +21,25 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
   const [score, setScore] = useState(0);
   const [status, setStatus] = useState<'idle' | 'correct' | 'incorrect'>('idle');
   const [showHint, setShowHint] = useState(false);
+  const [isResumed, setIsResumed] = useState(false);
+
+  const SESSION_KEY = `duolove_session_${lesson.id}`;
+
+  useEffect(() => {
+    const saved = localStorage.getItem(SESSION_KEY);
+    if (saved) {
+      const { index, score: savedScore } = JSON.parse(saved);
+      if (index < lesson.questions.length) {
+        setCurrentIndex(index);
+        setScore(savedScore);
+        setIsResumed(true);
+      }
+    }
+  }, [lesson.id, SESSION_KEY]);
+
+  useEffect(() => {
+    localStorage.setItem(SESSION_KEY, JSON.stringify({ index: currentIndex, score }));
+  }, [currentIndex, score, SESSION_KEY]);
 
   const currentQuestion = lesson.questions[currentIndex];
 
@@ -45,8 +64,13 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
       setStatus('idle');
       setShowHint(false);
     } else {
+      localStorage.removeItem(SESSION_KEY);
       onExit(score);
     }
+  };
+
+  const handleManualExit = () => {
+    onExit(score);
   };
 
   const playQuestionAudio = () => {
@@ -106,6 +130,7 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
           <MatchPairs
             key={currentQuestion.id}
             pairs={currentQuestion.pairs!}
+            targetLang={currentQuestion.targetLang}
             onComplete={() => handleAnswer(true)}
             disabled={status !== 'idle'}
           />
@@ -131,7 +156,7 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
   return (
     <div className="min-h-screen flex flex-col max-w-4xl mx-auto p-4 pb-32">
       <header className="flex items-center gap-4 mb-8">
-        <button onClick={() => onExit(score)} className="p-2 hover:bg-card rounded-full transition-colors">
+        <button onClick={handleManualExit} className="p-2 hover:bg-card rounded-full transition-colors">
           <X className="text-gray-400" />
         </button>
         <div className="flex-1 h-3 bg-card rounded-full overflow-hidden">
@@ -140,6 +165,11 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
             style={{ width: `${progress}%` }} 
           />
         </div>
+        {isResumed && (
+            <span className="text-[10px] bg-orchid/20 text-orchid px-2 py-1 rounded-full font-bold uppercase animate-pulse">
+                Wznowiono
+            </span>
+        )}
       </header>
 
       <main className="flex-1 flex flex-col gap-8">
