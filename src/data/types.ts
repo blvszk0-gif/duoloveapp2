@@ -15,7 +15,7 @@ export interface Question {
   hint?: string;
 }
 
-export type Category = 'Biznesowe' | 'Slang' | 'Codzienne' | 'English' | 'Spanish';
+export type Category = 'Biznesowe' | 'Slang' | 'Codzienne' | 'Ogólne' | 'English' | 'Spanish';
 
 export interface Lesson {
   id: string;
