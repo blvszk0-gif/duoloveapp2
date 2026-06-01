@@ -138,10 +138,19 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
               animate={{ x: 0, opacity: 1 }}
               exit={{ x: -20, opacity: 0 }}
             >
-              <div className="mb-4 text-center">
+              <div className="mb-4 text-center flex items-center justify-center gap-4">
                 <span className="px-4 py-1 bg-card border border-gray-800 rounded-full text-xs text-gray-500 uppercase tracking-widest font-bold">
                   {currentQuestion.instruction || 'Zadanie'}
                 </span>
+                {currentQuestion.audioText && (
+                  <button
+                    onClick={playQuestionAudio}
+                    className="p-2 hover:bg-card rounded-full text-accent transition-colors"
+                    title="Słuchaj"
+                  >
+                    <Volume2 size={20} />
+                  </button>
+                )}
               </div>
               {renderQuestion()}
             </motion.div>
