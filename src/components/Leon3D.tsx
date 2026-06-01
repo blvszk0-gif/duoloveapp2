@@ -14,8 +14,8 @@ function LeonModel() {
     <Float speed={2} rotationIntensity={0.5} floatIntensity={0.5}>
       <primitive
         object={scene}
-        scale={2.5}
-        position={[0, -2, 0]}
+        scale={0.15}
+        position={[-0.7, -2, 0]}
         rotation={[0, -0.2, 0]}
       />
     </Float>
