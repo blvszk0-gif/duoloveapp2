@@ -147,7 +147,12 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
     };
 
     // Process English
-    const validEnRaw = enRaw.filter(q => q.correctAnswer && !q.correctAnswer.includes("MYMEMORY WARNING"));
+    const validEnRaw = enRaw.filter(q =>
+        q.correctAnswer &&
+        !q.correctAnswer.includes("MYMEMORY WARNING") &&
+        q.prompt &&
+        !q.prompt.includes("MYMEMORY WARNING")
+    );
     const processedEn = validEnRaw.map(q => generateTask(q, validEnRaw, 'English'));
     for (let i = 0; i < processedEn.length; i += CHUNK_SIZE) {
         const chunk = processedEn.slice(i, i + CHUNK_SIZE);
@@ -161,7 +166,12 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
     }
 
     // Process Spanish
-    const validEsRaw = esRaw.filter(q => q.correctAnswer && !q.correctAnswer.includes("MYMEMORY WARNING"));
+    const validEsRaw = esRaw.filter(q =>
+        q.correctAnswer &&
+        !q.correctAnswer.includes("MYMEMORY WARNING") &&
+        q.prompt &&
+        !q.prompt.includes("MYMEMORY WARNING")
+    );
     const processedEs = validEsRaw.map(q => generateTask(q, validEsRaw, 'Spanish'));
     for (let i = 0; i < processedEs.length; i += CHUNK_SIZE) {
         const chunk = processedEs.slice(i, i + CHUNK_SIZE);
