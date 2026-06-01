@@ -5,17 +5,15 @@ import { motion } from 'framer-motion';
 import { getRandomQuote } from '../utils/quotes';
 
 function LeonModel() {
-  // Using a placeholder for now since I don't have the actual Leon GLB file.
-  // I will use a high-quality bust or similar if available, or just a placeholder sphere for testing the layout.
-  // Ideally user would provide leon.glb in public/models/
-  const { scene } = useGLTF('https://vazxmixjsiawhamofees.supabase.co/storage/v1/object/public/models/bust-of-a-man/model.gltf');
+  // Using a simpler model or checking for errors
+  const { scene } = useGLTF('https://vazxmixjsiawhamofees.supabase.co/storage/v1/object/public/models/duck/model.gltf');
   
   return (
     <Float speed={2} rotationIntensity={0.5} floatIntensity={0.5}>
       <primitive
         object={scene}
-        scale={0.15}
-        position={[-0.7, -2, 0]}
+        scale={1.5}
+        position={[0, -1, 0]}
         rotation={[0, -0.2, 0]}
       />
     </Float>

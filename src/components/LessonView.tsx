@@ -10,6 +10,7 @@ import ListenMatch from './ListenMatch';
 import { playAudio } from '../utils/audio';
 import { X, Volume2, ArrowRight, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import ErrorBoundary from './ErrorBoundary';
 
 interface LessonViewProps {
   lesson: Lesson;
@@ -173,10 +174,12 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
       </header>
 
       <main className="flex-1 flex flex-col gap-8">
-        <Leon3D 
-          animationState={status === 'correct' ? 'jump_joy' : status === 'incorrect' ? 'facepalm' : 'idle'} 
-          showQuote={status === 'correct'}
-        />
+        <ErrorBoundary>
+          <Leon3D
+            animationState={status === 'correct' ? 'jump_joy' : status === 'incorrect' ? 'facepalm' : 'idle'}
+            showQuote={status === 'correct'}
+          />
+        </ErrorBoundary>
 
         <div className="flex-1 relative">
           <AnimatePresence mode="wait">

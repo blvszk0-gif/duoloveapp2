@@ -4,6 +4,7 @@ import { Languages, Lock, CheckCircle, Star, Trash2 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Leon3D from './Leon3D';
 import QuotesMarquee from './QuotesMarquee';
+import ErrorBoundary from './ErrorBoundary';
 
 interface DashboardProps {
   onStartLesson: (lesson: Lesson) => void;
@@ -48,7 +49,9 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
       <aside className="lg:w-1/3 flex flex-col gap-6 lg:sticky lg:top-12 lg:h-[calc(100vh-6rem)]">
         <div className="flex-1 bg-card rounded-[3rem] border border-gray-800 shadow-2xl overflow-hidden flex flex-col">
           <div className="h-2/3 bg-gradient-to-b from-accent/10 to-transparent relative">
-            <Leon3D />
+            <ErrorBoundary>
+              <Leon3D />
+            </ErrorBoundary>
             <div className="absolute bottom-4 left-0 right-0 text-center">
               <span className="bg-background/80 backdrop-blur-md px-4 py-2 rounded-full border border-accent/20 text-xs font-bold text-accent uppercase tracking-widest">
                 Leon Kennedy
