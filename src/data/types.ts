@@ -1,4 +1,10 @@
-export type QuestionType = 'tap-translate' | 'multiple-choice' | 'gap-fill' | 'match-pairs' | 'translate';
+export type QuestionType =
+  | 'translate'
+  | 'multiple-choice'
+  | 'match-pairs'
+  | 'listen-match'
+  | 'tap-translate'
+  | 'gap-fill';
 
 export interface Question {
   id: string;
