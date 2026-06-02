@@ -151,21 +151,21 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
                 return (
                   <button
                     key={lesson.id}
-                    disabled={!unlocked}
+                    disabled={!unlocked || lesson.questions.every(q => (q as any).isPlaceholder)}
                     onClick={() => onStartLesson(lesson)}
                     className={`group relative p-6 rounded-3xl border-2 transition-all text-left flex flex-col gap-4 shadow-lg ${
                       completed ? 'bg-success/5 border-success/50' :
-                      unlocked ? 'bg-card border-gray-800 hover:border-accent hover:shadow-accent/10' :
+                      unlocked && !lesson.questions.every(q => (q as any).isPlaceholder) ? 'bg-card border-gray-800 hover:border-accent hover:shadow-accent/10' :
                       'bg-gray-900/50 border-gray-800 opacity-60 cursor-not-allowed'
                     }`}
                   >
                     <div className={`w-12 h-12 rounded-2xl flex items-center justify-center transition-transform group-hover:scale-110 ${
                       completed ? 'bg-success/20 text-success' :
-                      unlocked ? 'bg-accent/20 text-accent' :
+                      unlocked && !lesson.questions.every(q => (q as any).isPlaceholder) ? 'bg-accent/20 text-accent' :
                       'bg-gray-800 text-gray-600'
                     }`}>
                       {completed ? <CheckCircle size={24} /> :
-                       unlocked ? <Languages size={24} /> :
+                       unlocked && !lesson.questions.every(q => (q as any).isPlaceholder) ? <Languages size={24} /> :
                        <Lock size={24} />}
                     </div>
 
@@ -185,10 +185,15 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
                             Zablokowane
                           </span>
                         )}
+                        {unlocked && lesson.questions.every(q => (q as any).isPlaceholder) && (
+                          <span className="text-[10px] bg-orchid/20 text-orchid px-2 py-0.5 rounded-full font-bold uppercase">
+                            W przygotowaniu
+                          </span>
+                        )}
                       </div>
                     </div>
 
-                    {!unlocked && (
+                    {!unlocked && !lesson.questions.every(q => (q as any).isPlaceholder) && (
                       <div className="absolute top-4 right-4 text-gray-600">
                         <Lock size={16} />
                       </div>

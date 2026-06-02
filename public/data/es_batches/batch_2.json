@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "es_400",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That makes you happy, doesn't it?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_401",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Needless to say, he was late for school as usual.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_402",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Every time I see you, I think of your mother.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_403",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She came late as usual.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_404",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For him, it always goes in one ear and out the other.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_405",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "My brother is two years older than I, but he is three centimeters shorter.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_406",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He did it not once, but twice.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_407",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She has two sons; one of them is a doctor, and the other is a dentist.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_408",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He has two sons that don't go to school yet.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_409",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This book, which I've read twice, was a gift from Peter.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_410",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Good, but you can do better.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_411",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You can swim, but I can't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_412",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "At such times, I think of my family, not my friends.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_413",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As for today, I went out with my friends.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_414",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please look after my cats while I'm away.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_415",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "At such times, I think of my family, not my friends.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_416",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I live in a town, but my parents live in the country.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_417",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I will see my friends tonight, but my sister won't see hers.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_418",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please accept my apologies for what I said just now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_419",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "And you, how's it going?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_420",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, I don't! I don't know what you're talking about!",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_421",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you're not with us then you're against us.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_422",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please tell me you're OK.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_423",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You're by my side; everything's fine now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_424",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You're not fit to be seen.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_425",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You're happy, aren't you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_426",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I said that I could, not that I would.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_427",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If not for music, the world would be a dull place.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_428",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I were you, I wouldn't do it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_429",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If the world weren't in the shape it is now, I could trust anyone.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_430",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you have nothing to say, say nothing.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_431",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You may go to the party, but you must be home by midnight.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_432",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you had told me the truth, I would not be angry now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_433",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you had told me the truth, I would not be angry now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_434",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Had I known the truth, I would have told it to you.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_435",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it hadn't been for you, he would still be alive.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_436",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I had known about it, I would have told you.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_437",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Had she told me the truth in the first place, I wouldn't be angry now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_438",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Good that you told me, otherwise I would never have remembered it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_439",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Had I had a little more money, I would have bought it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_440",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The more I listen to her, the less I like her.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_441",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Well, I have to go now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_442",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "One evening a man came to my house.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_443",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Well, you have a man.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_444",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Man eats to live, he does not live to eat.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_445",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If anyone can do it, it's Tom.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_446",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Which do you like better, this or that?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_447",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The more I thought about the problem, the more difficult it seemed.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_448",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You know, money is just paper, and that is a real car.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_449",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This problem is hard to solve. So you had better begin with that one.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_450",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Which is your book, this one or that one?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_451",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I understand, but I cannot agree.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_452",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom, you'll be here for me if I need you, won't you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_453",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She doesn't like being alone, but I prefer it like that.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_454",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'd like to be alone for a few minutes please.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_455",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For all I know, he could be in Paris right now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_456",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "What is love? To tell the truth, I still don't know what it is.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_457",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To tell the truth, I don't like his way of talking.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_458",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Would you please stop talking?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_459",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She can speak French, to say nothing of English.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_460",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "What a good boy you are, Tom!",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_461",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It is very fine today so I would rather go out than stay at home.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_462",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To know is one thing, to teach is another.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_463",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Do it for yourself; not for someone else.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_464",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I may have met him somewhere before, but I can't recall where.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_465",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Another bottle of wine, please.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_466",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I thought he loved you, but as it is, he loved another girl.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_467",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I've heard of him, but I don't know him personally.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_468",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Anyway, I think I've said enough.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_469",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm here. Is there anybody home?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_470",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, I haven't gotten around to doing it yet.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_471",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As a matter of fact, I haven't eaten anything since this morning.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_472",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, I haven't written it yet.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_473",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I had money, I could buy it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_474",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Even if I wanted to, I couldn't do that.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_475",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "May I have a glass of milk, please?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_476",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I had enough money, I could buy this book.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_477",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He had no money and so could not buy any food.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_478",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He had no money and so could not buy any food.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_479",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I really wanted to go to the party, but I couldn't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_480",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I did so, not because I wanted to, but because I had to.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_481",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I really wanted to go to the party, but I couldn't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 43 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_482",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When she was three years old, her father died.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_483",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom is three years younger than you, right?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_484",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "His mother had three sons, of whom he was the youngest.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_485",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As a child, he went to Paris three times.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_486",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Believe it or not, she has three children.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_487",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Believe it or not, this woman has three kids.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_488",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'll go at three, or rather at a quarter past three.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_489",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The house is too big for us, and what is more, it is too expensive.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_490",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "French is too hard, so I don't think I want to learn it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_491",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "One can drink too much, but one never drinks enough.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_492",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I wanted to say something, but I was too scared.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_493",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When she opened her heart to him, it was already too late.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_494",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If something sounds too good to be true, then it probably is.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_495",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom, if you're not too busy, could you come to my office for a minute?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_496",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He's my uncle, because my father is his brother.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_497",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom helps Mary because he wants to, not because he has to.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_498",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She cannot be staying at this hotel, because she has gone back to Canada.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_499",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It is because you do not do it, not because you are not able to do it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_500",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She won't leave the room, because she doesn't want to catch another cold.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_501",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Why? Because his family needed the money, that's why.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_502",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I can't reply your message immediately, for I can't type fast.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_503",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Not that I dislike the job, but that I am unfit for it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_504",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You won't be late, will you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_505",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am sorry, but I have someone coming.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_506",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "His father will not come, he is very busy.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_507",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you drive your car like that, you'll end up in hospital.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_508",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He does not study hard, but does very well at school.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_509",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yes, I think it's okay.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_510",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like English, but I cannot speak well.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_511",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Though he is rich, he is not happy.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_512",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I never wrote to her, despite the urge to do so.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_513",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Regardless of the bad weather, I decided to go out.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_514",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Despite his young age, he did a very good job.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_515",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Even though Tom used to be my best friend, I'm beginning to hate him.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_516",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I have time, so I'll do it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_517",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I have no time for that, and besides, I don't have any money.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_518",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I get time, I will.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_519",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You know where Tom is, don't you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_520",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You can speak English well, can't you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_521",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I can't leave home, even if only for a while.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_522",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, I have no idea.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_523",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I would like to improve my French but I really have no time.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_524",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He speaks German, not to mention English.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_525",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To make matters worse, he isn't even conscious of annoying his neighbors.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_526",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's neither one or the other, but all the opposite.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_527",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Not a word to anyone, please.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_528",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He has no wife, no children and no friends.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_529",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom can swim, but Mary can't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_530",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you don't go, I won't, either.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_531",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you leave, I'll tell all the world you fondle me while I sleep.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_532",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You go to school, right?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_533",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you go fishing tomorrow, I will, too.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_534",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You go to school, don't you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_535",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you go out, I won't let you come in again.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_536",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As far as I know, he did nothing wrong.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_537",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yes, as far as I know.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_538",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As far as I know, he is coming by car.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_539",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As far as I know, this is the latest edition.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_540",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "My cat is such a baby, she follows me around wherever I go.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_541",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He went to Paris, where he met me for the first time.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_542",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am going to my room, where I can study.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_543",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "My father can swim, but my mother can't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_544",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom really does swim well, doesn't he?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_545",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Sometimes I go, sometimes I don't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_546",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You are tall, but he is still taller.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_547",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She is far away, but I still love her.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_548",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it hadn't been for you, he would still be alive.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_549",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He has not come home yet, has he?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_550",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "These shoes are old, but I still like them.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_551",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tomorrow is another day, but it won't be here until tomorrow!",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_552",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, until now she has never fallen in love.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_553",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "One went fishing, another went shopping.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_554",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Although, it is good if one can speak English well.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_555",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yes, I think you should go.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_556",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, I don't think I'll be able to.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_557",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Say what you will, I think he is an honest person.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_558",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't know anything about him, other than his name.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_559",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "What Jack told me about you is a pack of lies. I don't believe him.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_560",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm talking about this pen, not that one over there on the desk.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_561",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please spend a few minutes thinking about this.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_562",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Above all, be true to yourself.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_563",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He may have said something about it; but I don't remember.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_564",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I changed my mind about going out and stayed home.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_565",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He speaks French and that very well.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_566",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom often talks to his dog.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_567",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "They all burst out laughing.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_568",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Don't believe him. He's just talking to hear himself talk.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_569",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She speaks English, and French as well.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_570",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As fluently as she speaks French, she may have studied in France.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_571",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You speak first; I will speak after.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_572",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it were not for your help, I could not have succeeded.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_573",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I had known her address, I would have written her a letter.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_574",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I had had more time, I would have written to you.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_575",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Where are the eggs, please?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_576",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "They're all fine, thanks.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_577",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The streets here are empty by 7.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_578",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He, as well as his sister, are invited to the party.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_579",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't like it, but I will do it anyway.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_580",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I know it's wrong, but I'll do it anyway.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_581",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There's only one pretty child in the world, and every mother has it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_582",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I knew it was wrong, but I did it anyway.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_583",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm tired, but I'm going anyway.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_584",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Anyway, you'll never know.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_585",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Who does Tom think he is anyway?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_586",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "All things considered, he is a good teacher.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_587",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Either way I don't like him.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_588",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Nevertheless, I want to go there.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_589",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He must have been home then.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_590",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it had not been for your advice, I could not have succeeded.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_591",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom could have come yesterday, but he didn't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_592",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "After he had found her phone number, he called her up.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_593",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I had had enough time, I could have seen more of London.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_594",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom should have invited Mary, but he didn't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_595",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He got sad after reading the letter.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_596",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you didn't want to come, you should've said something.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_597",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Had it not been for this error, our team could have won the match.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_598",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, I didn't see anyone.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_599",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She isn't kind to him. In fact, she's not kind to anyone.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_600",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom knew the truth, but he didn't let anyone know that he knew it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_601",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He thinks he is somebody, but really he is nobody.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_602",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "With the exception of him, nobody else came to the party.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_603",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I have nothing to do with the accident, and I know nothing.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_604",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please go and see who it is.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_605",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom went to see Mary early yesterday morning.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_606",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you look around, you'll see many people doing the same thing.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_607",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "One by one, the boys came to see what I was reading.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_608",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To tell the truth, I don't really like her.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_609",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To tell the truth, I did not make it myself.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_610",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, I don't think that I am to blame.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_611",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I may be old, but I'm not crazy.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_612",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Anyway, please come in.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_613",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Whatever he says, do not trust him.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_614",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The sooner, the better.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_615",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The sooner you do it, the better it is.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_616",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, my father's not here.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_617",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like swimming, but I don't like to swim here.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 42 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_618",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like swimming, but I don't like to swim here.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_619",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you don't want me to stay here, I'll leave.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_620",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He can stay here for one night, no longer.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_621",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Today, I am feeling a lot better.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_622",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yesterday Tom stayed home all day.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_623",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it rains tomorrow, I will stay at home all day.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_624",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Nowadays, people know the price of everything and the value of nothing.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_625",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Being young, he can work all day long.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_626",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please come to our town some day.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_627",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We must accept life, for good or for evil.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_628",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We must accept life, for good or for evil.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_629",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He thinks that life is like a voyage in a sense.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_630",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Life is a long, long road.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_631",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Everyone has the right to life, liberty and the security of person.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_632",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For once in my life I succeeded in getting the better of him.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_633",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'd like nothing better than to fire Tom, but I can't do that.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_634",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'd like a room with a good view, please.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_635",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it weren't for the climate, I'd like it here very much.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_636",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'd like to help, but I can't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_637",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It is, even now, a book loved by men and women alike.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_638",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some people like summer, and others like winter.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_639",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There is nothing more I can give you except my blood.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_640",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Our children like dogs, but I prefer cats.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_641",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some people like cats, and others prefer dogs.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_642",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I asked them how dinner was, but nobody answered me.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_643",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some students like baseball, and others like soccer.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_644",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You're a friend of Tom's, eh?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_645",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't care who you are, I care about what you do.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_646",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If anyone can do it, it's you.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_647",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Very good, but you're capable of doing better.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_648",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you're happy, so am I.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_649",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She wants but doesn't need it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_650",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "First of all, I must say this.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_651",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it hadn't been for the seatbelt, I wouldn't be alive today.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_652",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's been nice talking to you, but I really must go now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_653",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I've been invited on a trip abroad, but I don't want to go.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_654",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I had been rich, I would have given you some money.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_655",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No matter who says so, I don't believe it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_656",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No matter how you say it, I'm not going to listen to you.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_657",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is poor, but he doesn't care about money.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_658",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't care what he says. I will never believe him again.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_659",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No matter what he says, don't trust him.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_660",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Christmas is soon, right?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_661",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please come as soon as possible.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_662",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As soon as Tom got Mary alone, he told her the bad news.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_663",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Judging from the sky, it will rain soon.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_664",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Since I was really tired I went to sleep early.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_665",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I didn't want to do it, but I had to.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_666",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He asked her to stay, but she didn't want to.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_667",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She wanted to return home, but she got lost.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_668",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it weren\u2019t for music, the world would be a dull place.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_669",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If he can do it well, so much more can we.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_670",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Even though Tom still had tears in his eyes, he began to smile.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_671",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I told him, but he didn't pay attention.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_672",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He promised to come, but he didn't come.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_673",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't know how I did it. What's important is that I did it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_674",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's not what you say, but how you say it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_675",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You don't know how to do it, do you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_676",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Nobody understands how he does it, but he does it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_677",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Can you please tell me how I can get to the beach?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_678",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "In order to be like them, we must think like them.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_679",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If two men always have the same opinion, one of them is unnecessary.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_680",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "They will probably handle this well.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_681",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "They didn't come here, did they?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_682",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Children need many things, but above all they need love.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_683",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When she comes of age, they are going to get married.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_684",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Usually, they did not stay long.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_685",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This is a better way of paying people, according to Paula Grayson.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_686",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "People love to talk - talk - talk.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_687",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, I don't let in people I don't know.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_688",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "In the summer, people go to the seaside.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_689",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "People, old and young, all came out to greet the guests.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_690",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is strange, and I don't like strange people.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_691",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He does not like carrots, so he did not eat it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_692",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm very busy so probably I won't be able to come tomorrow.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_693",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "From the look of the sky, it may rain in the afternoon.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_694",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some people went by bus, and others by train.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_695",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some people like cats, others prefer dogs.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_696",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some people write books for money, others for pleasure.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_697",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some people take a bath every day and others don't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_698",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Your parents didn't come, did they?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_699",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You've invited your friends too, haven't you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_700",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You've invited your friends too, haven't you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_701",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you're going to doubt everything, at least doubt your doubt.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_702",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please say hello to your parents.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_703",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When death approaches, all you can do is slowly chew your fingernails.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_704",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "With your skills, I'm sure it wouldn't be too hard to find another job.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_705",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "However busy you may be, you must do your homework.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_706",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You've never been to Europe, have you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_707",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We've been talking about this for hours. Can we just drop it?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_708",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You've never been to Paris, have you?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_709",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If she visits France again, she will have been there three times.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_710",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'd been on my own all week and was starving for conversation.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_711",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Without your help, he would have been ruined.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_712",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't want Tom to drive. He's been drinking.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_713",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She looks young, but she's actually older than you are.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_714",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "My mother appears young for her age.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_715",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She looks young, but actually she's older than you are.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_716",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To a man with a hammer, everything looks like a nail.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_717",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It looks like it's going to rain, right?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_718",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "May I have the check, please?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_719",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Can you tell me the time, please?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_720",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please come to my house.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_721",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This year, I need to buy a car.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_722",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I need to buy food, but I don't have enough money.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_723",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I just think you should be more careful, that's all.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_724",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To be happy, you should spend time with someone you love.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_725",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You can't fix it. You should buy a new one.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_726",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you need books, make the most of the books in the library.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_727",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You look tired. You should rest a little.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_728",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "With your talent, you should be able to make a lot of money.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_729",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please have someone else do it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_730",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yeah, I got a new job but it's nothing to write home about.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_731",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We often do what we have to do, not what we want to do.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_732",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I remember correctly, I think we have to turn left at the next corner.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_733",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We all live under the same sky, but we don't all have the same horizon.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_734",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Although we don't have much money, I want to buy this painting.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_735",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, but that's all we have right now.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_736",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Time is short, we must act NOW.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_737",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We don't have much snow here even in the winter.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_738",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As a matter of fact, I've only just arrived myself.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_739",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I want to go to heaven, but I don't want to die to get there!",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_740",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you want a good seat, you should get there early.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_741",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Upon arriving at the airport, he made a phonecall to his wife.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_742",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Go at once, or you will be late for school.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_743",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Run, or else you'll be late.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_744",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Whatever you say, she is the one I'm going to marry.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_745",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's not you that she loves, it's me.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_746",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Whoever comes, say I am away from home.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_747",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Among the five of us, she, without a doubt, speaks the most languages.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_748",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It was not you who ate the cake I made, it was your sister.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_749",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yes, the milk is very good.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_750",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yes, I have a good idea.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_751",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Sounds like a pretty good idea, after all.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_752",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Being very clever and gentle, this dog is a good companion to me.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_753",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I really want to be a good friend, but it is hard.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 41 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_754",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The food is good, and service is good here.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_755",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Although the proposal seemed like a good idea, they refused it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_756",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Your composition is very good, and it has few mistakes.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_757",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As I see it, that is the best way.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_758",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That woman is his wife, I think.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_759",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If that guitar were not so expensive, I could buy it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_760",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You may smoke in that room, but you mustn't smoke in this room.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_761",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom was the only person in the room at the time.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_762",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To be, or not to be, that is the question.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_763",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "On second thought, I think I will have a slice of that pie.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_764",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He asked me if I had experience in this area, and I said no.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_765",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Your mother is very young, isn't she?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_766",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Son, go back to your mother.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_767",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "May I have your name and telephone number, please?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_768",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Could you turn on the light please?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_769",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Instead of cleaning the house today, I think I'll take a walk.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_770",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "After his own blood, the best a man can give of himself it's a tear.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_771",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If God is with us, then who is against us?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_772",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To our surprise, Tom came to our party with Mary.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_773",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Our school library is small, but new.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_774",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "John, the tallest boy in our class, is nicknamed Mr High.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_775",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To make our house payments, we're going to have to tighten our belts.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_776",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There are many talented people in our city, but Tom isn't one of them.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_777",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "With a little planning, I think we can take our company to the top.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_778",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For some reason I feel more alive at night.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_779",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He seldom, if ever, goes to church.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_780",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am sure I met him somewhere, but I do not remember who he is.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_781",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Write me sometime, OK?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_782",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For some reason, she couldn't sleep.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_783",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you are ever in Japan, come and see me.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_784",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Did you lose anything, miss?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_785",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "A steamship is, without doubt, a city in itself.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_786",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'd like to put my valuables in a safe deposit box, if any are available.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_787",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Indeed you know a lot of things, but you're not good at teaching them.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_788",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "With many women, love always comes first.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_789",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I was a child, I would spend hours reading alone in my room.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_790",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Even though there were many cookies on the dish, I only ate three.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_791",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I know a man who has many faces but only one hat.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_792",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Try as he might, he couldn't get the door open.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_793",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom tried to speak, but couldn't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_794",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He tried to make his wife happy, but he couldn't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_795",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom tried to open the door, but couldn't.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_796",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She could solve the problem, and so could I.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_797",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom couldn't solve the problem, could he?",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_798",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He could not go out because of the heavy rain.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_799",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you can, come with us.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 40 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  }
+]
