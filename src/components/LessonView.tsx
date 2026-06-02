@@ -80,6 +80,12 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
     }
   };
 
+  const playPromptAudio = () => {
+    if (currentQuestion.prompt && currentQuestion.nativeLang) {
+      playAudio(currentQuestion.prompt, currentQuestion.nativeLang);
+    }
+  };
+
   const renderQuestion = () => {
     // ExerciseFactory
     switch (currentQuestion.type) {
@@ -193,11 +199,11 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
                 <span className="px-4 py-1 bg-card border border-gray-800 rounded-full text-xs text-gray-500 uppercase tracking-widest font-bold">
                   {currentQuestion.instruction || 'Zadanie'}
                 </span>
-                {currentQuestion.audioText && currentQuestion.type !== 'listen-match' && (
+                {currentQuestion.prompt && currentQuestion.nativeLang && currentQuestion.type !== 'listen-match' && (
                   <button
-                    onClick={playQuestionAudio}
+                    onClick={playPromptAudio}
                     className="p-2 hover:bg-card rounded-full text-accent transition-colors"
-                    title="Słuchaj"
+                    title="Słuchaj polecenia"
                   >
                     <Volume2 size={20} />
                   </button>

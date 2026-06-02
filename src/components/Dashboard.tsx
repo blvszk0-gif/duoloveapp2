@@ -48,7 +48,7 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
       {/* Sidebar with Leon and Quotes */}
       <aside className="lg:w-1/3 flex flex-col gap-6 lg:sticky lg:top-12 lg:h-[calc(100vh-6rem)]">
         <div className="flex-1 bg-card rounded-[3rem] border border-gray-800 shadow-2xl overflow-hidden flex flex-col">
-          <div className="h-2/3 bg-gradient-to-b from-accent/10 to-transparent relative">
+          <div className="h-4/5 bg-gradient-to-b from-accent/10 to-transparent relative">
             <ErrorBoundary>
               <Leon3D />
             </ErrorBoundary>
@@ -58,7 +58,7 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
               </span>
             </div>
           </div>
-          <div className="flex-1 p-2">
+          <div className="h-1/5 p-2">
             <QuotesMarquee />
           </div>
         </div>
