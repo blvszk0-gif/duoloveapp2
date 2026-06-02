@@ -12,6 +12,19 @@ const EN_URL = "https://gist.githubusercontent.com/user/gist-id-en/raw/en.json";
 const ES_URL = "https://gist.githubusercontent.com/user/gist-id-es/raw/es.json";
 const QUOTES_URL = "https://gist.githubusercontent.com/user/gist-id-quotes/raw/quotes.txt";
 
+const FALLBACK_ES_DATA = [
+  { id: 'es-fb-1', prompt: 'I love you', correctAnswer: 'Te amo' },
+  { id: 'es-fb-2', prompt: 'Where is the library?', correctAnswer: '¿Dónde está la biblioteca?' },
+  { id: 'es-fb-3', prompt: 'Good morning', correctAnswer: 'Buenos días' },
+  { id: 'es-fb-4', prompt: 'See you later', correctAnswer: 'Hasta luego' },
+  { id: 'es-fb-5', prompt: 'How are you?', correctAnswer: '¿Cómo estás?' },
+  { id: 'es-fb-6', prompt: 'Thank you very much', correctAnswer: 'Muchas gracias' },
+  { id: 'es-fb-7', prompt: 'You are welcome', correctAnswer: 'De nada' },
+  { id: 'es-fb-8', prompt: 'I don’t understand', correctAnswer: 'No entiendo' },
+  { id: 'es-fb-9', prompt: 'Please', correctAnswer: 'Por favor' },
+  { id: 'es-fb-10', prompt: 'Excuse me', correctAnswer: 'Perdón' }
+];
+
 const shuffle = <T>(arr: T[]): T[] => [...arr].sort(() => 0.5 - Math.random());
 
 const getRandomItems = <T>(arr: T[], count: number): T[] => {
@@ -199,27 +212,13 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
     }
 
     // Process Spanish
-    // If esRaw is full of errors, we might want to "force" some data for testing if requested,
-    // but user asked to use es.json. I will relax the check slightly or assume they fixed the file.
-    // Actually, I will provide a small fallback list if es.json is empty to ensure they have something to see.
     let validEsRaw = esRaw.filter(q =>
         q.correctAnswer && !q.correctAnswer.includes("MYMEMORY WARNING") &&
         q.prompt && !q.prompt.includes("MYMEMORY WARNING")
     );
 
     if (validEsRaw.length === 0) {
-        validEsRaw = [
-            { id: 'es-fb-1', prompt: 'I love you', correctAnswer: 'Te amo' },
-            { id: 'es-fb-2', prompt: 'Where is the library?', correctAnswer: '¿Dónde está la biblioteca?' },
-            { id: 'es-fb-3', prompt: 'Good morning', correctAnswer: 'Buenos días' },
-            { id: 'es-fb-4', prompt: 'See you later', correctAnswer: 'Hasta luego' },
-            { id: 'es-fb-5', prompt: 'How are you?', correctAnswer: '¿Cómo estás?' },
-            { id: 'es-fb-6', prompt: 'Thank you very much', correctAnswer: 'Muchas gracias' },
-            { id: 'es-fb-7', prompt: 'You are welcome', correctAnswer: 'De nada' },
-            { id: 'es-fb-8', prompt: 'I don’t understand', correctAnswer: 'No entiendo' },
-            { id: 'es-fb-9', prompt: 'Please', correctAnswer: 'Por favor' },
-            { id: 'es-fb-10', prompt: 'Excuse me', correctAnswer: 'Perdón' }
-        ];
+        validEsRaw = FALLBACK_ES_DATA;
     }
 
     const processedEs = validEsRaw.map(q => generateTask(q, validEsRaw, 'Spanish'));
