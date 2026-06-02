@@ -1,0 +1,3202 @@
+[
+  {
+    "id": "es_0",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She loves him for what he is, not for what he has.",
+    "audioText": "",
+    "correctAnswer": "Ella lo ama por lo que es, no por lo que tiene."
+  },
+  {
+    "id": "es_1",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, that's not my house.",
+    "audioText": "",
+    "correctAnswer": "No, esa no es mi casa."
+  },
+  {
+    "id": "es_2",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He loves her, but she doesn't like him.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l la ama, pero a ella no le gusta \u00e9l."
+  },
+  {
+    "id": "es_3",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom likes Mary, but she doesn't like him.",
+    "audioText": "",
+    "correctAnswer": "A Tom le gusta Mary, pero a ella no le gusta \u00e9l."
+  },
+  {
+    "id": "es_4",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, you don't have to.",
+    "audioText": "",
+    "correctAnswer": "No, no tienes que hacerlo."
+  },
+  {
+    "id": "es_5",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom had nothing to do, so he went home.",
+    "audioText": "",
+    "correctAnswer": "Tom no ten\u00eda nada que hacer, as\u00ed que se fue a casa."
+  },
+  {
+    "id": "es_6",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He loves me. But I do not love him.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l me ama. Pero yo no lo amo."
+  },
+  {
+    "id": "es_7",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, no! That's not right.",
+    "audioText": "",
+    "correctAnswer": "\u00a1No, no! Eso no est\u00e1 bien."
+  },
+  {
+    "id": "es_8",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When you cannot do what you want, you do what you can.",
+    "audioText": "",
+    "correctAnswer": "Cuando no puedes hacer lo que quieres, haces lo que puedes."
+  },
+  {
+    "id": "es_9",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I know what I want. I just haven't found it yet.",
+    "audioText": "",
+    "correctAnswer": "S\u00e9 lo que quiero. Simplemente no lo he encontrado todav\u00eda."
+  },
+  {
+    "id": "es_10",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "After that, he went home.",
+    "audioText": "",
+    "correctAnswer": "Despu\u00e9s de eso, se fue a casa."
+  },
+  {
+    "id": "es_11",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom is Mary's brother, not her father.",
+    "audioText": "",
+    "correctAnswer": "Tom es el hermano de Mary, no su padre."
+  },
+  {
+    "id": "es_12",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He went away from home three years ago, and has never been heard of since.",
+    "audioText": "",
+    "correctAnswer": "Se fue de casa hace tres a\u00f1os y nunca m\u00e1s se supo de \u00e9l."
+  },
+  {
+    "id": "es_13",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She asked me what had become of him, but I didn't know.",
+    "audioText": "",
+    "correctAnswer": "Ella me pregunt\u00f3 qu\u00e9 hab\u00eda sido de \u00e9l, pero yo no lo sab\u00eda."
+  },
+  {
+    "id": "es_14",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You have some money, don't you?",
+    "audioText": "",
+    "correctAnswer": "Tienes algo de dinero, \u00bfverdad?"
+  },
+  {
+    "id": "es_15",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Don't you agree, Tom?",
+    "audioText": "",
+    "correctAnswer": "\u00bfNo est\u00e1s de acuerdo, Tom?"
+  },
+  {
+    "id": "es_16",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Not only your father but also I am against your plan.",
+    "audioText": "",
+    "correctAnswer": "No solo tu padre sino tambi\u00e9n yo estamos en contra de tu plan."
+  },
+  {
+    "id": "es_17",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This town is so small that you can easily learn everyone's names.",
+    "audioText": "",
+    "correctAnswer": "Este pueblo es tan peque\u00f1o que puedes aprender f\u00e1cilmente los nombres de todos."
+  },
+  {
+    "id": "es_18",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Even though I know so little about her, I think I'm in love.",
+    "audioText": "",
+    "correctAnswer": "Aunque s\u00e9 tan poco sobre ella, creo que estoy enamorado."
+  },
+  {
+    "id": "es_19",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "OK, and what are you going to do for me?",
+    "audioText": "",
+    "correctAnswer": "Bien, \u00bfy qu\u00e9 vas a hacer por m\u00ed?"
+  },
+  {
+    "id": "es_20",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There's nothing to do, so I may as well go to bed.",
+    "audioText": "",
+    "correctAnswer": "No hay nada que hacer, as\u00ed que mejor me voy a la cama."
+  },
+  {
+    "id": "es_21",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I know I have it, but I can't put my finger on it.",
+    "audioText": "",
+    "correctAnswer": "S\u00e9 que lo tengo, pero no puedo precisarlo."
+  },
+  {
+    "id": "es_22",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The man said yes, but only if I promised.",
+    "audioText": "",
+    "correctAnswer": "El hombre dijo que s\u00ed, pero solo si yo lo promet\u00eda."
+  },
+  {
+    "id": "es_23",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He had nothing to say, so he left.",
+    "audioText": "",
+    "correctAnswer": "No ten\u00eda nada que decir, as\u00ed que se fue."
+  },
+  {
+    "id": "es_24",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Is that what you want, Tom?",
+    "audioText": "",
+    "correctAnswer": "\u00bfEs eso lo que quieres, Tom?"
+  },
+  {
+    "id": "es_25",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It is not so much money as fame that he wanted.",
+    "audioText": "",
+    "correctAnswer": "No era tanto el dinero como la fama lo que quer\u00eda."
+  },
+  {
+    "id": "es_26",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's not what he said, but the way he said it.",
+    "audioText": "",
+    "correctAnswer": "No es lo que dijo, sino la forma en que lo dijo."
+  },
+  {
+    "id": "es_27",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I imagine music will be on a server somewhere - but not on a hard disk.",
+    "audioText": "",
+    "correctAnswer": "Imagino que la m\u00fasica estar\u00e1 en alg\u00fan servidor, pero no en un disco duro."
+  },
+  {
+    "id": "es_28",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It was not what he said, but the way he said it that made me suspicious.",
+    "audioText": "",
+    "correctAnswer": "No fue lo que dijo, sino la forma en que lo dijo lo que me hizo sospechar."
+  },
+  {
+    "id": "es_29",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm going to be around tomorrow afternoon, so please drop in.",
+    "audioText": "",
+    "correctAnswer": "Estar\u00e9 por aqu\u00ed ma\u00f1ana por la tarde, as\u00ed que por favor p\u00e1sate."
+  },
+  {
+    "id": "es_30",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As I love her, so she loved me.",
+    "audioText": "",
+    "correctAnswer": "As\u00ed como yo la amo, ella me amaba a m\u00ed."
+  },
+  {
+    "id": "es_31",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom loves Mary, but she doesn't love him.",
+    "audioText": "",
+    "correctAnswer": "Tom ama a Mary, pero ella no lo ama a \u00e9l."
+  },
+  {
+    "id": "es_32",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I can see Tom, but he can't see me.",
+    "audioText": "",
+    "correctAnswer": "Puedo ver a Tom, pero \u00e9l no puede verme a m\u00ed."
+  },
+  {
+    "id": "es_33",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Mary has nobody to talk with, but she doesn't feel lonely.",
+    "audioText": "",
+    "correctAnswer": "Mary no tiene a nadie con quien hablar, pero no se siente sola."
+  },
+  {
+    "id": "es_34",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I went to her house, but she was not at home.",
+    "audioText": "",
+    "correctAnswer": "Fui a su casa, pero ella no estaba."
+  },
+  {
+    "id": "es_35",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "And now, what am I going to do?",
+    "audioText": "",
+    "correctAnswer": "Y ahora, \u00bfqu\u00e9 voy a hacer?"
+  },
+  {
+    "id": "es_36",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She's at work, isn't she?",
+    "audioText": "",
+    "correctAnswer": "Ella est\u00e1 en el trabajo, \u00bfverdad?"
+  },
+  {
+    "id": "es_37",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Money isn't everything, but if you have no money, you can't do anything.",
+    "audioText": "",
+    "correctAnswer": "El dinero no lo es todo, pero si no tienes dinero, no puedes hacer nada."
+  },
+  {
+    "id": "es_38",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As far as I know, she has nothing to do with that scandal.",
+    "audioText": "",
+    "correctAnswer": "Que yo sepa, ella no tiene nada que ver con ese esc\u00e1ndalo."
+  },
+  {
+    "id": "es_39",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Everybody talks about the weather, but nobody does anything about it.",
+    "audioText": "",
+    "correctAnswer": "Todo el mundo habla del tiempo, pero nadie hace nada al respecto."
+  },
+  {
+    "id": "es_40",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You like English, don't you?",
+    "audioText": "",
+    "correctAnswer": "Te gusta el ingl\u00e9s, \u00bfverdad?"
+  },
+  {
+    "id": "es_41",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For me, time is not money.",
+    "audioText": "",
+    "correctAnswer": "Para m\u00ed, el tiempo no es dinero."
+  },
+  {
+    "id": "es_42",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He's the one, isn't he?",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es el indicado, \u00bfno?"
+  },
+  {
+    "id": "es_43",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That's better, isn't it?",
+    "audioText": "",
+    "correctAnswer": "Eso est\u00e1 mejor, \u00bfverdad?"
+  },
+  {
+    "id": "es_44",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It doesn't seem; it is.",
+    "audioText": "",
+    "correctAnswer": "No lo parece; lo es."
+  },
+  {
+    "id": "es_45",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She knows what she wants, that's what matters.",
+    "audioText": "",
+    "correctAnswer": "Ella sabe lo que quiere, eso es lo que importa."
+  },
+  {
+    "id": "es_46",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I do not like him, but I like her.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l no me gusta, pero ella s\u00ed."
+  },
+  {
+    "id": "es_47",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom wants to leave, but he can't.",
+    "audioText": "",
+    "correctAnswer": "Tom quiere irse, pero no puede."
+  },
+  {
+    "id": "es_48",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Since I will see him tomorrow, I can give him a message if you want.",
+    "audioText": "",
+    "correctAnswer": "Como lo ver\u00e9 ma\u00f1ana, puedo darle un mensaje si quieres."
+  },
+  {
+    "id": "es_49",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This is a good book, but that is better.",
+    "audioText": "",
+    "correctAnswer": "Este es un buen libro, pero aquel es mejor."
+  },
+  {
+    "id": "es_50",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's not a good car, but it's a car.",
+    "audioText": "",
+    "correctAnswer": "No es un buen coche, pero es un coche."
+  },
+  {
+    "id": "es_51",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I have not a single dog, I have two.",
+    "audioText": "",
+    "correctAnswer": "No tengo un solo perro, tengo dos."
+  },
+  {
+    "id": "es_52",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This is a man, that is a woman.",
+    "audioText": "",
+    "correctAnswer": "Este es un hombre, esa es una mujer."
+  },
+  {
+    "id": "es_53",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Since it's nice out, I'd like to go take a walk.",
+    "audioText": "",
+    "correctAnswer": "Como hace buen tiempo, me gustar\u00eda ir a dar un paseo."
+  },
+  {
+    "id": "es_54",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "A good book is the best friend, now and forever.",
+    "audioText": "",
+    "correctAnswer": "Un buen libro es el mejor amigo, ahora y siempre."
+  },
+  {
+    "id": "es_55",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He cannot buy a car, still less a house.",
+    "audioText": "",
+    "correctAnswer": "No puede comprar un coche, y mucho menos una casa."
+  },
+  {
+    "id": "es_56",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom isn't at home now.",
+    "audioText": "",
+    "correctAnswer": "Tom no est\u00e1 en casa ahora."
+  },
+  {
+    "id": "es_57",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "My father doesn't lift a finger at home.",
+    "audioText": "",
+    "correctAnswer": "Mi padre no mueve un dedo en casa."
+  },
+  {
+    "id": "es_58",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As for me, I like this better.",
+    "audioText": "",
+    "correctAnswer": "En cuanto a m\u00ed, prefiero esto."
+  },
+  {
+    "id": "es_59",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He isn't at home, is he?",
+    "audioText": "",
+    "correctAnswer": "\u00c9l no est\u00e1 en casa, \u00bfverdad?"
+  },
+  {
+    "id": "es_60",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Father is out, but Mother is at home.",
+    "audioText": "",
+    "correctAnswer": "Pap\u00e1 est\u00e1 fuera, pero mam\u00e1 est\u00e1 en casa."
+  },
+  {
+    "id": "es_61",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't know why but I like this place.",
+    "audioText": "",
+    "correctAnswer": "No s\u00e9 por qu\u00e9, pero me gusta este lugar."
+  },
+  {
+    "id": "es_62",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I want to speak with Tom, please.",
+    "audioText": "",
+    "correctAnswer": "Quiero hablar con Tom, por favor."
+  },
+  {
+    "id": "es_63",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To the best of my knowledge, he will not come.",
+    "audioText": "",
+    "correctAnswer": "Por lo que yo s\u00e9, no vendr\u00e1."
+  },
+  {
+    "id": "es_64",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is older than I by two years, but less tall than I.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es dos a\u00f1os mayor que yo, pero menos alto que yo."
+  },
+  {
+    "id": "es_65",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As far as I know, he has never come on time.",
+    "audioText": "",
+    "correctAnswer": "Que yo sepa, nunca ha llegado a tiempo."
+  },
+  {
+    "id": "es_66",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Certainly not, I don't agree with you.",
+    "audioText": "",
+    "correctAnswer": "Ciertamente no, no estoy de acuerdo contigo."
+  },
+  {
+    "id": "es_67",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Never mind, I can do it by myself.",
+    "audioText": "",
+    "correctAnswer": "No importa, puedo hacerlo yo solo."
+  },
+  {
+    "id": "es_68",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You know what I want, don't you?",
+    "audioText": "",
+    "correctAnswer": "Sabes lo que quiero, \u00bfverdad?"
+  },
+  {
+    "id": "es_69",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "And now what would you like to do?",
+    "audioText": "",
+    "correctAnswer": "\u00bfY ahora qu\u00e9 te gustar\u00eda hacer?"
+  },
+  {
+    "id": "es_70",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I have more time, and less money than ever.",
+    "audioText": "",
+    "correctAnswer": "Tengo m\u00e1s tiempo y menos dinero que nunca."
+  },
+  {
+    "id": "es_71",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I did what I had to do, and if I had to do it again, I would...",
+    "audioText": "",
+    "correctAnswer": "Hice lo que ten\u00eda que hacer, y si tuviera que hacerlo de nuevo, lo har\u00eda..."
+  },
+  {
+    "id": "es_72",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He's a teacher and so am I.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es profesor y yo tambi\u00e9n."
+  },
+  {
+    "id": "es_73",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't want to go and I know you don't want to go either.",
+    "audioText": "",
+    "correctAnswer": "No quiero ir y s\u00e9 que t\u00fa tampoco quieres ir."
+  },
+  {
+    "id": "es_74",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom didn't like Mary and she didn't like him.",
+    "audioText": "",
+    "correctAnswer": "A Tom no le gustaba Mary y a ella no le gustaba \u00e9l."
+  },
+  {
+    "id": "es_75",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I can't go, nor do I want to.",
+    "audioText": "",
+    "correctAnswer": "No puedo ir, ni tampoco quiero."
+  },
+  {
+    "id": "es_76",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The more one has, the more one wants.",
+    "audioText": "",
+    "correctAnswer": "Cuanto m\u00e1s tiene uno, m\u00e1s quiere."
+  },
+  {
+    "id": "es_77",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's getting late, I gotta go.",
+    "audioText": "",
+    "correctAnswer": "Se est\u00e1 haciendo tarde, me tengo que ir."
+  },
+  {
+    "id": "es_78",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Anyway, I don't like it.",
+    "audioText": "",
+    "correctAnswer": "De todos modos, no me gusta."
+  },
+  {
+    "id": "es_79",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I went not once, but twice.",
+    "audioText": "",
+    "correctAnswer": "Fui no una, sino dos veces."
+  },
+  {
+    "id": "es_80",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I wanted a key to Tom's house, but he wouldn't give me one.",
+    "audioText": "",
+    "correctAnswer": "Quer\u00eda una llave de la casa de Tom, pero \u00e9l no me dio una."
+  },
+  {
+    "id": "es_81",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I know one thing, that I know nothing.",
+    "audioText": "",
+    "correctAnswer": "Solo s\u00e9 una cosa, que no s\u00e9 nada."
+  },
+  {
+    "id": "es_82",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If your parents like your job, then it's shit.",
+    "audioText": "",
+    "correctAnswer": "Si a tus padres les gusta tu trabajo, entonces es una mierda."
+  },
+  {
+    "id": "es_83",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For the world, you are somebody, but for somebody you are the world.",
+    "audioText": "",
+    "correctAnswer": "Para el mundo eres alguien, pero para alguien eres el mundo."
+  },
+  {
+    "id": "es_84",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She is something on the outside, but another on the inside.",
+    "audioText": "",
+    "correctAnswer": "Ella es una cosa por fuera, pero otra por dentro."
+  },
+  {
+    "id": "es_85",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That's a woman's job, said Tom.",
+    "audioText": "",
+    "correctAnswer": "Ese es un trabajo de mujeres, dijo Tom."
+  },
+  {
+    "id": "es_86",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If a woman knows, the whole world knows.",
+    "audioText": "",
+    "correctAnswer": "Si una mujer lo sabe, todo el mundo lo sabe."
+  },
+  {
+    "id": "es_87",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is the taller of the two.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es el m\u00e1s alto de los dos."
+  },
+  {
+    "id": "es_88",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom doesn't come here every day, but he comes quite often.",
+    "audioText": "",
+    "correctAnswer": "Tom no viene aqu\u00ed todos los d\u00edas, pero viene bastante a menudo."
+  },
+  {
+    "id": "es_89",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "People can talk but animals cannot.",
+    "audioText": "",
+    "correctAnswer": "La gente puede hablar, pero los animales no."
+  },
+  {
+    "id": "es_90",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like dogs and my sister likes cats.",
+    "audioText": "",
+    "correctAnswer": "Me gustan los perros y a mi hermana le gustan los gatos."
+  },
+  {
+    "id": "es_91",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like dogs, but my sister likes cats.",
+    "audioText": "",
+    "correctAnswer": "Me gustan los perros, pero a mi hermana le gustan los gatos."
+  },
+  {
+    "id": "es_92",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like music, and I listen to it every day.",
+    "audioText": "",
+    "correctAnswer": "Me gusta la m\u00fasica y la escucho todos los d\u00edas."
+  },
+  {
+    "id": "es_93",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "In this world nothing can be said to be certain, except death and taxes.",
+    "audioText": "",
+    "correctAnswer": "En este mundo no se puede decir que nada sea seguro, excepto la muerte y los impuestos."
+  },
+  {
+    "id": "es_94",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Our child likes dogs, but I prefer cats.",
+    "audioText": "",
+    "correctAnswer": "A nuestro hijo le gustan los perros, pero yo prefiero los gatos."
+  },
+  {
+    "id": "es_95",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Our children like dogs, but I prefer cats.",
+    "audioText": "",
+    "correctAnswer": "A nuestros hijos le gustan los perros, pero yo prefiero los gatos."
+  },
+  {
+    "id": "es_96",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "But what has this to do with bird!",
+    "audioText": "",
+    "correctAnswer": "\u00a1Pero qu\u00e9 tiene que ver esto con el p\u00e1jaro!"
+  },
+  {
+    "id": "es_97",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Even though you don't like this, you must eat it.",
+    "audioText": "",
+    "correctAnswer": "Aunque no te guste esto, debes comerlo."
+  },
+  {
+    "id": "es_98",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You like him, don't you?",
+    "audioText": "",
+    "correctAnswer": "Te gusta \u00e9l, \u00bfverdad?"
+  },
+  {
+    "id": "es_99",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You like her, don't you?",
+    "audioText": "",
+    "correctAnswer": "Te gusta ella, \u00bfverdad?"
+  },
+  {
+    "id": "es_100",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Whether you like it or not, you have to go.",
+    "audioText": "",
+    "correctAnswer": "Te guste o no, tienes que ir."
+  },
+  {
+    "id": "es_101",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You like it, don't you?",
+    "audioText": "",
+    "correctAnswer": "Te gusta, \u00bfverdad?"
+  },
+  {
+    "id": "es_102",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Whether you like it or not, you must do it at once.",
+    "audioText": "",
+    "correctAnswer": "Te guste o no, debes hacerlo de inmediato."
+  },
+  {
+    "id": "es_103",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is my brother, not father.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es mi hermano, no mi padre."
+  },
+  {
+    "id": "es_104",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yes, this is my house.",
+    "audioText": "",
+    "correctAnswer": "S\u00ed, esta es mi casa."
+  },
+  {
+    "id": "es_105",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As a matter of fact, she is my sister.",
+    "audioText": "",
+    "correctAnswer": "De hecho, ella es mi hermana."
+  },
+  {
+    "id": "es_106",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I owe what I am to my father.",
+    "audioText": "",
+    "correctAnswer": "Le debo lo que soy a mi padre."
+  },
+  {
+    "id": "es_107",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "My wife likes to eat out, so she doesn't have to cook.",
+    "audioText": "",
+    "correctAnswer": "A mi mujer le gusta comer fuera, as\u00ed que no tiene que cocinar."
+  },
+  {
+    "id": "es_108",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Just between you and me, do you love my sister?",
+    "audioText": "",
+    "correctAnswer": "Solo entre t\u00fa y yo, \u00bfamas a mi hermana?"
+  },
+  {
+    "id": "es_109",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The more you have, the more you want.",
+    "audioText": "",
+    "correctAnswer": "Cuanto m\u00e1s tienes, m\u00e1s quieres."
+  },
+  {
+    "id": "es_110",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "What car do you like more?",
+    "audioText": "",
+    "correctAnswer": "\u00bfQu\u00e9 coche te gusta m\u00e1s?"
+  },
+  {
+    "id": "es_111",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The more I think about it, the less I like it.",
+    "audioText": "",
+    "correctAnswer": "Cuanto m\u00e1s lo pienso, menos me gusta."
+  },
+  {
+    "id": "es_112",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I just want to be your friend, nothing more.",
+    "audioText": "",
+    "correctAnswer": "Solo quiero ser tu amigo, nada m\u00e1s."
+  },
+  {
+    "id": "es_113",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She's not his sister, but his mother.",
+    "audioText": "",
+    "correctAnswer": "Ella no es su hermana, sino su madre."
+  },
+  {
+    "id": "es_114",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Every time I go to his house, he is out.",
+    "audioText": "",
+    "correctAnswer": "Cada vez que voy a su casa, \u00e9l est\u00e1 fuera."
+  },
+  {
+    "id": "es_115",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I just know his name, that's all.",
+    "audioText": "",
+    "correctAnswer": "Solo s\u00e9 su nombre, eso es todo."
+  },
+  {
+    "id": "es_116",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom should be home by now, but he's still at his office.",
+    "audioText": "",
+    "correctAnswer": "Tom deber\u00eda estar en casa a estas alturas, pero todav\u00eda est\u00e1 en su oficina."
+  },
+  {
+    "id": "es_117",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Although I am her elder, she treats me as if I were her servant.",
+    "audioText": "",
+    "correctAnswer": "Aunque soy mayor que ella, me trata como si fuera su sirviente."
+  },
+  {
+    "id": "es_118",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He never did his work anyhow.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l nunca hac\u00eda su trabajo de todos modos."
+  },
+  {
+    "id": "es_119",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom isn't Mary's father, but her uncle.",
+    "audioText": "",
+    "correctAnswer": "Tom no es el padre de Mary, sino su t\u00edo."
+  },
+  {
+    "id": "es_120",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She wanted to go, and her father let her go.",
+    "audioText": "",
+    "correctAnswer": "Ella quer\u00eda ir y su padre la dej\u00f3 ir."
+  },
+  {
+    "id": "es_121",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like women, I like wine.",
+    "audioText": "",
+    "correctAnswer": "Me gustan las mujeres, me gusta el vino."
+  },
+  {
+    "id": "es_122",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Come here at six, not before.",
+    "audioText": "",
+    "correctAnswer": "Ven aqu\u00ed a las seis, no antes."
+  },
+  {
+    "id": "es_123",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you're happy, it's best to just leave things how they are.",
+    "audioText": "",
+    "correctAnswer": "Si eres feliz, lo mejor es dejar las cosas como est\u00e1n."
+  },
+  {
+    "id": "es_124",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please call me at seven tomorrow morning.",
+    "audioText": "",
+    "correctAnswer": "Por favor, ll\u00e1mame a las siete ma\u00f1ana por la ma\u00f1ana."
+  },
+  {
+    "id": "es_125",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "In any case, you must come here by ten.",
+    "audioText": "",
+    "correctAnswer": "En cualquier caso, debes venir aqu\u00ed para las diez."
+  },
+  {
+    "id": "es_126",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "With a good book in your hands you need never feel lonely.",
+    "audioText": "",
+    "correctAnswer": "Con un buen libro en tus manos nunca te sentir\u00e1s solo."
+  },
+  {
+    "id": "es_127",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If anyone calls me up while I'm away, tell them I'll be back by five.",
+    "audioText": "",
+    "correctAnswer": "Si alguien me llama mientras estoy fuera, dile que volver\u00e9 para las cinco."
+  },
+  {
+    "id": "es_128",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You don't like love stories, do you?",
+    "audioText": "",
+    "correctAnswer": "No te gustan las historias de amor, \u00bfverdad?"
+  },
+  {
+    "id": "es_129",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is at work now, but will return at seven.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l est\u00e1 en el trabajo ahora, pero volver\u00e1 a las siete."
+  },
+  {
+    "id": "es_130",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To tell the truth, I don't want to go with them.",
+    "audioText": "",
+    "correctAnswer": "A decir verdad, no quiero ir con ellos."
+  },
+  {
+    "id": "es_131",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If I were you, I wouldn't live with him.",
+    "audioText": "",
+    "correctAnswer": "Si yo fuera t\u00fa, no vivir\u00eda con \u00e9l."
+  },
+  {
+    "id": "es_132",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm going to live my life, with or without her.",
+    "audioText": "",
+    "correctAnswer": "Voy a vivir mi vida, con o sin ella."
+  },
+  {
+    "id": "es_133",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you want to go out with Tom, you can.",
+    "audioText": "",
+    "correctAnswer": "Si quieres salir con Tom, puedes."
+  },
+  {
+    "id": "es_134",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you want to go out with Tom, you can.",
+    "audioText": "",
+    "correctAnswer": "Si quieres salir con Tom, puedes."
+  },
+  {
+    "id": "es_135",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As far as I know, the book has never been translated into Japanese.",
+    "audioText": "",
+    "correctAnswer": "Que yo sepa, el libro nunca ha sido traducido al japon\u00e9s."
+  },
+  {
+    "id": "es_136",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "After all, life is just like a dream.",
+    "audioText": "",
+    "correctAnswer": "Despu\u00e9s de todo, la vida es como un sue\u00f1o."
+  },
+  {
+    "id": "es_137",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I know it's not easy, but you've got to at least try.",
+    "audioText": "",
+    "correctAnswer": "S\u00e9 que no es f\u00e1cil, pero al menos tienes que intentarlo."
+  },
+  {
+    "id": "es_138",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It was a long and hard journey but we're finally at our destination.",
+    "audioText": "",
+    "correctAnswer": "Fue un viaje largo y duro, pero finalmente llegamos a nuestro destino."
+  },
+  {
+    "id": "es_139",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I was a child, I often went swimming in the sea.",
+    "audioText": "",
+    "correctAnswer": "Cuando era ni\u00f1o, a menudo iba a nadar al mar."
+  },
+  {
+    "id": "es_140",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Do you have to go abroad again or not anymore?",
+    "audioText": "",
+    "correctAnswer": "\u00bfTienes que volver al extranjero o ya no?"
+  },
+  {
+    "id": "es_141",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't feel like working today, so let's go play soccer.",
+    "audioText": "",
+    "correctAnswer": "No tengo ganas de trabajar hoy, as\u00ed que vamos a jugar al f\u00fatbol."
+  },
+  {
+    "id": "es_142",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If the weather is fine, I'll go swimming in the river.",
+    "audioText": "",
+    "correctAnswer": "Si hace buen tiempo, ir\u00e9 a nadar al r\u00edo."
+  },
+  {
+    "id": "es_143",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please treat the cat well.",
+    "audioText": "",
+    "correctAnswer": "Por favor, trata bien al gato."
+  },
+  {
+    "id": "es_144",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You, what do you like to do?",
+    "audioText": "",
+    "correctAnswer": "T\u00fa, \u00bfqu\u00e9 te gusta hacer?"
+  },
+  {
+    "id": "es_145",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I know him by sight, but I have never actually spoken to him.",
+    "audioText": "",
+    "correctAnswer": "Lo conozco de vista, pero nunca he hablado con \u00e9l en persona."
+  },
+  {
+    "id": "es_146",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, but he isn't home.",
+    "audioText": "",
+    "correctAnswer": "Lo siento, pero \u00e9l no est\u00e1 en casa."
+  },
+  {
+    "id": "es_147",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She is not home, but at school.",
+    "audioText": "",
+    "correctAnswer": "No est\u00e1 en casa, sino en la escuela."
+  },
+  {
+    "id": "es_148",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's OK, that doesn't count.",
+    "audioText": "",
+    "correctAnswer": "Est\u00e1 bien, eso no cuenta."
+  },
+  {
+    "id": "es_149",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's OK, but I think you can do it better.",
+    "audioText": "",
+    "correctAnswer": "Est\u00e1 bien, pero creo que puedes hacerlo mejor."
+  },
+  {
+    "id": "es_150",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As for you, I don't know, but for me it's really very important.",
+    "audioText": "",
+    "correctAnswer": "En cuanto a ti, no lo s\u00e9, pero para m\u00ed es realmente muy importante."
+  },
+  {
+    "id": "es_151",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "One for all, all for one.",
+    "audioText": "",
+    "correctAnswer": "Uno para todos y todos para uno."
+  },
+  {
+    "id": "es_152",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As a matter as fact, he did it for himself.",
+    "audioText": "",
+    "correctAnswer": "De hecho, lo hizo por s\u00ed mismo."
+  },
+  {
+    "id": "es_153",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I want a car, but I have no money to buy one.",
+    "audioText": "",
+    "correctAnswer": "Quiero un coche, pero no tengo dinero para comprar uno."
+  },
+  {
+    "id": "es_154",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For them, it was the end.",
+    "audioText": "",
+    "correctAnswer": "Para ellos, fue el final."
+  },
+  {
+    "id": "es_155",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is, without question, the best man for the job.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es, sin duda, el mejor hombre para el trabajo."
+  },
+  {
+    "id": "es_156",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If that's true, then she's better than me.",
+    "audioText": "",
+    "correctAnswer": "Si eso es cierto, entonces ella es mejor que yo."
+  },
+  {
+    "id": "es_157",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom can swim, but I can't.",
+    "audioText": "",
+    "correctAnswer": "Tom sabe nadar, pero yo no."
+  },
+  {
+    "id": "es_158",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Either you go, or I go.",
+    "audioText": "",
+    "correctAnswer": "O vas t\u00fa o voy yo."
+  },
+  {
+    "id": "es_159",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To tell the truth, I am not your father.",
+    "audioText": "",
+    "correctAnswer": "A decir verdad, no soy tu padre."
+  },
+  {
+    "id": "es_160",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am your friend, right?",
+    "audioText": "",
+    "correctAnswer": "Soy tu amigo, \u00bfverdad?"
+  },
+  {
+    "id": "es_161",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If your parents like your job, then it's shit.",
+    "audioText": "",
+    "correctAnswer": "Si a tus padres les gusta tu trabajo, entonces es una mierda."
+  },
+  {
+    "id": "es_162",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Can you please tell me your name once more?",
+    "audioText": "",
+    "correctAnswer": "\u00bfPuedes decirme tu nombre una vez m\u00e1s, por favor?"
+  },
+  {
+    "id": "es_163",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "In any case, he's your big brother.",
+    "audioText": "",
+    "correctAnswer": "En cualquier caso, es tu hermano mayor."
+  },
+  {
+    "id": "es_164",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom, it's not your fault.",
+    "audioText": "",
+    "correctAnswer": "Tom, no es culpa tuya."
+  },
+  {
+    "id": "es_165",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please tell me how to get to your house.",
+    "audioText": "",
+    "correctAnswer": "Por favor, dime c\u00f3mo llegar a tu casa."
+  },
+  {
+    "id": "es_166",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Although my car is very old, it still runs very well.",
+    "audioText": "",
+    "correctAnswer": "Aunque mi coche es muy viejo, todav\u00eda funciona muy bien."
+  },
+  {
+    "id": "es_167",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like English, but I cannot speak well.",
+    "audioText": "",
+    "correctAnswer": "Me gusta el ingl\u00e9s, pero no puedo hablarlo bien."
+  },
+  {
+    "id": "es_168",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like English so much, but sometimes it is very difficult for me.",
+    "audioText": "",
+    "correctAnswer": "Me gusta mucho el ingl\u00e9s, pero a veces me resulta muy dif\u00edcil."
+  },
+  {
+    "id": "es_169",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I think someone, and I know very well who, came in my bedroom.",
+    "audioText": "",
+    "correctAnswer": "Creo que alguien, y s\u00e9 muy bien qui\u00e9n, entr\u00f3 en mi habitaci\u00f3n."
+  },
+  {
+    "id": "es_170",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am very happy, he said.",
+    "audioText": "",
+    "correctAnswer": "Estoy muy feliz, dijo \u00e9l."
+  },
+  {
+    "id": "es_171",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "English is pretty hard, isn't it?",
+    "audioText": "",
+    "correctAnswer": "El ingl\u00e9s es bastante dif\u00edcil, \u00bfverdad?"
+  },
+  {
+    "id": "es_172",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As everyone knows, today is a very significant day for us.",
+    "audioText": "",
+    "correctAnswer": "Como todos saben, hoy es un d\u00eda muy importante para nosotros."
+  },
+  {
+    "id": "es_173",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is very kind, just like you.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es muy amable, igual que t\u00fa."
+  },
+  {
+    "id": "es_174",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Like it or not, you have to do that right away.",
+    "audioText": "",
+    "correctAnswer": "Te guste o no, tienes que hacer eso de inmediato."
+  },
+  {
+    "id": "es_175",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Like it or not, you must do it.",
+    "audioText": "",
+    "correctAnswer": "Te guste o no, debes hacerlo."
+  },
+  {
+    "id": "es_176",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Whether you like it or not, you'll have to do it.",
+    "audioText": "",
+    "correctAnswer": "Te guste o no, tendr\u00e1s que hacerlo."
+  },
+  {
+    "id": "es_177",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For my part, it doesn't matter whether he comes or not.",
+    "audioText": "",
+    "correctAnswer": "Por mi parte, no importa si viene o no."
+  },
+  {
+    "id": "es_178",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He doesn't eat this, does he?",
+    "audioText": "",
+    "correctAnswer": "\u00c9l no come esto, \u00bfverdad?"
+  },
+  {
+    "id": "es_179",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am going to do it whether you agree or not.",
+    "audioText": "",
+    "correctAnswer": "Voy a hacerlo est\u00e9s de acuerdo o no."
+  },
+  {
+    "id": "es_180",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am not so tall as my brother, but taller than my father.",
+    "audioText": "",
+    "correctAnswer": "No soy tan alto como mi hermano, pero s\u00ed m\u00e1s alto que mi padre."
+  },
+  {
+    "id": "es_181",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Since she didn't come, I didn't go either.",
+    "audioText": "",
+    "correctAnswer": "Como ella no vino, yo tampoco fui."
+  },
+  {
+    "id": "es_182",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Anyway, you're my friend.",
+    "audioText": "",
+    "correctAnswer": "De todos modos, eres mi amigo."
+  },
+  {
+    "id": "es_183",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I do not live to eat, but eat to live.",
+    "audioText": "",
+    "correctAnswer": "No vivo para comer, sino que como para vivir."
+  },
+  {
+    "id": "es_184",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I remember the man's face but I can't call his name to mind.",
+    "audioText": "",
+    "correctAnswer": "Recuerdo la cara del hombre pero no puedo recordar su nombre."
+  },
+  {
+    "id": "es_185",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "After the game, he went straight home to feed his dog.",
+    "audioText": "",
+    "correctAnswer": "Despu\u00e9s del partido, se fue directo a casa para alimentar a su perro."
+  },
+  {
+    "id": "es_186",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Is he by the car? No, he is in the car.",
+    "audioText": "",
+    "correctAnswer": "\u00bfEst\u00e1 junto al coche? No, est\u00e1 dentro del coche."
+  },
+  {
+    "id": "es_187",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He didn't notice the change, but I did.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l no not\u00f3 el cambio, pero yo s\u00ed."
+  },
+  {
+    "id": "es_188",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You may feast all night, but return to your grave before dawn!",
+    "audioText": "",
+    "correctAnswer": "\u00a1Puedes festejar toda la noche, pero regresa a tu tumba antes del amanecer!"
+  },
+  {
+    "id": "es_189",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I've done half the work, and now I can take a break.",
+    "audioText": "",
+    "correctAnswer": "He hecho la mitad del trabajo y ahora puedo tomarme un descanso."
+  },
+  {
+    "id": "es_190",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "What is done out of love always takes place beyond good and evil.",
+    "audioText": "",
+    "correctAnswer": "Lo que se hace por amor siempre ocurre m\u00e1s all\u00e1 del bien y del mal."
+  },
+  {
+    "id": "es_191",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you go by bus, you can get there in about one-third of the time.",
+    "audioText": "",
+    "correctAnswer": "Si vas en autob\u00fas, puedes llegar all\u00ed en aproximadamente un tercio del tiempo."
+  },
+  {
+    "id": "es_192",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Some people are for the plan and others are against it.",
+    "audioText": "",
+    "correctAnswer": "Algunas personas est\u00e1n a favor del plan y otras en contra."
+  },
+  {
+    "id": "es_193",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He can't speak English, can he?",
+    "audioText": "",
+    "correctAnswer": "\u00c9l no sabe hablar ingl\u00e9s, \u00bfverdad?"
+  },
+  {
+    "id": "es_194",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "So what is it you want me to do?",
+    "audioText": "",
+    "correctAnswer": "Entonces, \u00bfqui\u00e9n es lo que quieres que haga?"
+  },
+  {
+    "id": "es_195",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If that's so, all the better.",
+    "audioText": "",
+    "correctAnswer": "Si es as\u00ed, tanto mejor."
+  },
+  {
+    "id": "es_196",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That's right, isn't it?",
+    "audioText": "",
+    "correctAnswer": "As\u00ed es, \u00bfverdad?"
+  },
+  {
+    "id": "es_197",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If it must be that way, so be it.",
+    "audioText": "",
+    "correctAnswer": "Si tiene que ser as\u00ed, que as\u00ed sea."
+  },
+  {
+    "id": "es_198",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He was here at that time.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l estaba aqu\u00ed en ese momento."
+  },
+  {
+    "id": "es_199",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom always looked happy, but never was.",
+    "audioText": "",
+    "correctAnswer": "Tom siempre parec\u00eda feliz, pero nunca lo fue."
+  },
+  {
+    "id": "es_200",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I was looking for something, but couldn't find it.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 45 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_201",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Had he known what was about to happen, he would have changed his plan.",
+    "audioText": "",
+    "correctAnswer": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  15 HOURS 45 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+  },
+  {
+    "id": "es_202",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She always looked happy, but never was.",
+    "audioText": "",
+    "correctAnswer": "Ella siempre parec\u00eda feliz, pero nunca lo fue."
+  },
+  {
+    "id": "es_203",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I wanted to give you something, but I wasn't sure what you'd like.",
+    "audioText": "",
+    "correctAnswer": "Quer\u00eda darte algo, pero no estaba seguro de qu\u00e9 te gustar\u00eda."
+  },
+  {
+    "id": "es_204",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Everything was out of place when I came back home.",
+    "audioText": "",
+    "correctAnswer": "Todo estaba fuera de lugar cuando volv\u00ed a casa."
+  },
+  {
+    "id": "es_205",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I was very tired, so I went to bed early.",
+    "audioText": "",
+    "correctAnswer": "Estaba muy cansado, as\u00ed que me fui a la cama temprano."
+  },
+  {
+    "id": "es_206",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I worked hard all day, so I was very tired.",
+    "audioText": "",
+    "correctAnswer": "Trabaj\u00e9 duro todo el d\u00eda, as\u00ed que estaba muy cansado."
+  },
+  {
+    "id": "es_207",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, it cannot be true.",
+    "audioText": "",
+    "correctAnswer": "No, no puede ser verdad."
+  },
+  {
+    "id": "es_208",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That could be true, but I don't really think so.",
+    "audioText": "",
+    "correctAnswer": "Eso podr\u00eda ser verdad, pero realmente no lo creo."
+  },
+  {
+    "id": "es_209",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you want to become my friend, then also become the friend of my friend.",
+    "audioText": "",
+    "correctAnswer": "Si quieres ser mi amigo, entonces s\u00e9 tambi\u00e9n amigo de mi amigo."
+  },
+  {
+    "id": "es_210",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Since he says so, it must be true.",
+    "audioText": "",
+    "correctAnswer": "Puesto que \u00e9l lo dice, debe ser verdad."
+  },
+  {
+    "id": "es_211",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We know what we are, but know not what we may be.",
+    "audioText": "",
+    "correctAnswer": "Sabemos lo que somos, pero no lo que podemos ser."
+  },
+  {
+    "id": "es_212",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "A man can be happy with any woman, as long as he does not love her.",
+    "audioText": "",
+    "correctAnswer": "Un hombre puede ser feliz con cualquier mujer, mientras no la ame."
+  },
+  {
+    "id": "es_213",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Men do not exist in this world to become rich, but to become happy.",
+    "audioText": "",
+    "correctAnswer": "Los hombres no existen en este mundo para hacerse ricos, sino para ser felices."
+  },
+  {
+    "id": "es_214",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She is not my sister, she's my wife.",
+    "audioText": "",
+    "correctAnswer": "Ella no es mi hermana, es mi esposa."
+  },
+  {
+    "id": "es_215",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If there's no life after death, then you'd better make this life count.",
+    "audioText": "",
+    "correctAnswer": "Si no hay vida despu\u00e9s de la muerte, m\u00e1s vale que hagas que esta vida cuente."
+  },
+  {
+    "id": "es_216",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This woman definitely knows that she doesn't know what she wants.",
+    "audioText": "",
+    "correctAnswer": "Esta mujer definitivamente sabe que no sabe lo que quiere."
+  },
+  {
+    "id": "es_217",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He gone, Mary remained thus alone in this sentence.",
+    "audioText": "",
+    "correctAnswer": "Al irse \u00e9l, Mary se qued\u00f3 sola en esta frase."
+  },
+  {
+    "id": "es_218",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I may have seen that film before, but I can hardly remember it.",
+    "audioText": "",
+    "correctAnswer": "Puede que haya visto esa pel\u00edcula antes, pero apenas la recuerdo."
+  },
+  {
+    "id": "es_219",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This camera is Tom's, isn't it?",
+    "audioText": "",
+    "correctAnswer": "Esta c\u00e1mara es de Tom, \u00bfverdad?"
+  },
+  {
+    "id": "es_220",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Warm this morning, isn't it?",
+    "audioText": "",
+    "correctAnswer": "Hace calor esta ma\u00f1ana, \u00bfverdad?"
+  },
+  {
+    "id": "es_221",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He should be promoted in the light of what he has done for this company.",
+    "audioText": "",
+    "correctAnswer": "Deber\u00eda ser ascendido a la luz de lo que ha hecho por esta empresa."
+  },
+  {
+    "id": "es_222",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "What time is it, anyway?",
+    "audioText": "",
+    "correctAnswer": "\u00bfQu\u00e9 hora es, de todos modos?"
+  },
+  {
+    "id": "es_223",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "All horses are animals, but not all animals are horses.",
+    "audioText": "",
+    "correctAnswer": "Todos los caballos son animales, pero no todos los animales son caballos."
+  },
+  {
+    "id": "es_224",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "All of the books are good, but none as good as this one.",
+    "audioText": "",
+    "correctAnswer": "Todos los libros son buenos, pero ninguno tan bueno como este."
+  },
+  {
+    "id": "es_225",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The men, the women, the boys, and the girls are people.",
+    "audioText": "",
+    "correctAnswer": "Los hombres, las mujeres, los ni\u00f1os y las ni\u00f1as son personas."
+  },
+  {
+    "id": "es_226",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Horses are bigger than dogs, but cats are smaller than dogs.",
+    "audioText": "",
+    "correctAnswer": "Los caballos son m\u00e1s grandes que los perros, pero los gatos son m\u00e1s peque\u00f1os que los perros."
+  },
+  {
+    "id": "es_227",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Music is not a language. But some languages are music to my ears.",
+    "audioText": "",
+    "correctAnswer": "La m\u00fasica no es un idioma. Pero algunos idiomas son m\u00fasica para mis o\u00eddos."
+  },
+  {
+    "id": "es_228",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Music is not a language. But some languages are music to my ears.",
+    "audioText": "",
+    "correctAnswer": "La m\u00fasica no es un idioma. Pero algunos idiomas son m\u00fasica para mis o\u00eddos."
+  },
+  {
+    "id": "es_229",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "One of her three cars is blue and the others are white.",
+    "audioText": "",
+    "correctAnswer": "Uno de sus tres coches es azul y los otros son blancos."
+  },
+  {
+    "id": "es_230",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Who are you, how did you come here, and why?",
+    "audioText": "",
+    "correctAnswer": "\u00bfQui\u00e9n eres, c\u00f3mo viniste aqu\u00ed y por qu\u00e9?"
+  },
+  {
+    "id": "es_231",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For me, they are the best.",
+    "audioText": "",
+    "correctAnswer": "Para m\u00ed, ellos son los mejores."
+  },
+  {
+    "id": "es_232",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm very sorry, but I can't.",
+    "audioText": "",
+    "correctAnswer": "Lo siento mucho, pero no puedo."
+  },
+  {
+    "id": "es_233",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yes. Always when I can.",
+    "audioText": "",
+    "correctAnswer": "S\u00ed. Siempre que puedo."
+  },
+  {
+    "id": "es_234",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You can swim, but I can't.",
+    "audioText": "",
+    "correctAnswer": "T\u00fa sabes nadar, pero yo no."
+  },
+  {
+    "id": "es_235",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, I can't speak English.",
+    "audioText": "",
+    "correctAnswer": "No, no s\u00e9 hablar ingl\u00e9s."
+  },
+  {
+    "id": "es_236",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I can't study anywhere in my house. It's too noisy.",
+    "audioText": "",
+    "correctAnswer": "No puedo estudiar en ning\u00fan sitio de mi casa. Hay demasiado ruido."
+  },
+  {
+    "id": "es_237",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It was already late, but she left nonetheless.",
+    "audioText": "",
+    "correctAnswer": "Ya era tarde, pero ella se fue de todos modos."
+  },
+  {
+    "id": "es_238",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The man asked me who I was, but I didn't think I had to answer.",
+    "audioText": "",
+    "correctAnswer": "El hombre me pregunt\u00f3 qui\u00e9n era, pero no cre\u00ed que tuviera que responder."
+  },
+  {
+    "id": "es_239",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I was a child, I used to swim in that pond.",
+    "audioText": "",
+    "correctAnswer": "Cuando era ni\u00f1o, sol\u00eda nadar en ese estanque."
+  },
+  {
+    "id": "es_240",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I was a child, our house seemed bigger than now.",
+    "audioText": "",
+    "correctAnswer": "Cuando era ni\u00f1o, nuestra casa parec\u00eda m\u00e1s grande que ahora."
+  },
+  {
+    "id": "es_241",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I saw him last, he was still a child.",
+    "audioText": "",
+    "correctAnswer": "La \u00faltima vez que lo vi, a\u00fan era un ni\u00f1o."
+  },
+  {
+    "id": "es_242",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "London air was not much to boast of at best.",
+    "audioText": "",
+    "correctAnswer": "El aire de Londres no era mucho de lo que presumir en el mejor de los casos."
+  },
+  {
+    "id": "es_243",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I saw that film, but it wasn't very good.",
+    "audioText": "",
+    "correctAnswer": "Vi esa pel\u00edcula, pero no era muy buena."
+  },
+  {
+    "id": "es_244",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "So far as I know, he used to be a good student.",
+    "audioText": "",
+    "correctAnswer": "Que yo sepa, sol\u00eda ser un buen estudiante."
+  },
+  {
+    "id": "es_245",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's late, I have to go.",
+    "audioText": "",
+    "correctAnswer": "Es tarde, tengo que irme."
+  },
+  {
+    "id": "es_246",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I have to go, it's late!",
+    "audioText": "",
+    "correctAnswer": "\u00a1Tengo que irme, es tarde!"
+  },
+  {
+    "id": "es_247",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, but I'll have to go home now.",
+    "audioText": "",
+    "correctAnswer": "Lo siento, pero tendr\u00e9 que irme a casa ahora."
+  },
+  {
+    "id": "es_248",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I would like to go, but I don't have a car.",
+    "audioText": "",
+    "correctAnswer": "Me gustar\u00eda ir, pero no tengo coche."
+  },
+  {
+    "id": "es_249",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom did what he could for Mary, but it wasn't enough.",
+    "audioText": "",
+    "correctAnswer": "Tom hizo lo que pudo por Mary, pero no fue suficiente."
+  },
+  {
+    "id": "es_250",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom didn't go, and neither did Mary.",
+    "audioText": "",
+    "correctAnswer": "Tom no fue, y Mary tampoco."
+  },
+  {
+    "id": "es_251",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am a was, a will be, a tired being.",
+    "audioText": "",
+    "correctAnswer": "Soy un fue, un ser\u00e1, un ser cansado."
+  },
+  {
+    "id": "es_252",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom has nothing better to do right now.",
+    "audioText": "",
+    "correctAnswer": "Tom no tiene nada mejor que hacer ahora mismo."
+  },
+  {
+    "id": "es_253",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Not only Tom has to study, but I have to study, too.",
+    "audioText": "",
+    "correctAnswer": "No solo Tom tiene que estudiar, sino que yo tambi\u00e9n tengo que estudiar."
+  },
+  {
+    "id": "es_254",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Nobody wants to do it, but one of us has to.",
+    "audioText": "",
+    "correctAnswer": "Nadie quiere hacerlo, pero uno de nosotros tiene que hacerlo."
+  },
+  {
+    "id": "es_255",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It is not you but he that is to blame.",
+    "audioText": "",
+    "correctAnswer": "No eres t\u00fa sino \u00e9l quien tiene la culpa."
+  },
+  {
+    "id": "es_256",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He has a lot of money, but has almost no friends.",
+    "audioText": "",
+    "correctAnswer": "Tiene mucho dinero, pero casi no tiene amigos."
+  },
+  {
+    "id": "es_257",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He has two cats, one is white and one is black.",
+    "audioText": "",
+    "correctAnswer": "Tiene dos gatos, uno es blanco y otro es negro."
+  },
+  {
+    "id": "es_258",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I think he's coming, but I'm not quite sure.",
+    "audioText": "",
+    "correctAnswer": "Creo que viene, pero no estoy del todo seguro."
+  },
+  {
+    "id": "es_259",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As I am busy, I cannot go.",
+    "audioText": "",
+    "correctAnswer": "Como estoy ocupado, no puedo ir."
+  },
+  {
+    "id": "es_260",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I can't talk now. I'm too busy.",
+    "audioText": "",
+    "correctAnswer": "No puedo hablar ahora. Estoy demasiado ocupado."
+  },
+  {
+    "id": "es_261",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm a little tired, that's all.",
+    "audioText": "",
+    "correctAnswer": "Estoy un poco cansado, eso es todo."
+  },
+  {
+    "id": "es_262",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm kind of busy right now, Tom.",
+    "audioText": "",
+    "correctAnswer": "Estoy un poco ocupado ahora mismo, Tom."
+  },
+  {
+    "id": "es_263",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Thanks, but I'm fine with her.",
+    "audioText": "",
+    "correctAnswer": "Gracias, pero estoy bien con ella."
+  },
+  {
+    "id": "es_264",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I like this. I will take it.",
+    "audioText": "",
+    "correctAnswer": "Me gusta esto. Me lo llevo."
+  },
+  {
+    "id": "es_265",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "First of all, you have to read this book.",
+    "audioText": "",
+    "correctAnswer": "Antes que nada, tienes que leer este libro."
+  },
+  {
+    "id": "es_266",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "For all I know, he could be in Paris right now.",
+    "audioText": "",
+    "correctAnswer": "Por lo que s\u00e9, podr\u00eda estar en Par\u00eds ahora mismo."
+  },
+  {
+    "id": "es_267",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Why don't you go fishing with us this weekend if you aren't busy?",
+    "audioText": "",
+    "correctAnswer": "\u00bfPor qu\u00e9 no vienes a pescar con nosotros este fin de semana si no est\u00e1s ocupado?"
+  },
+  {
+    "id": "es_268",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you wish, you can go.",
+    "audioText": "",
+    "correctAnswer": "Si lo deseas, puedes ir."
+  },
+  {
+    "id": "es_269",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you really want to know, all you need to do is ask.",
+    "audioText": "",
+    "correctAnswer": "Si realmente quieres saberlo, todo lo que tienes que hacer es preguntar."
+  },
+  {
+    "id": "es_270",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom can swim, can't he?",
+    "audioText": "",
+    "correctAnswer": "Tom sabe nadar, \u00bfverdad?"
+  },
+  {
+    "id": "es_271",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "In fact, he can't swim well.",
+    "audioText": "",
+    "correctAnswer": "De hecho, no sabe nadar bien."
+  },
+  {
+    "id": "es_272",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She loves Tom, not me.",
+    "audioText": "",
+    "correctAnswer": "Ella ama a Tom, no a m\u00ed."
+  },
+  {
+    "id": "es_273",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "What do you want, Tom?",
+    "audioText": "",
+    "correctAnswer": "\u00bfQu\u00e9 quieres, Tom?"
+  },
+  {
+    "id": "es_274",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To tell the truth, I don't like him.",
+    "audioText": "",
+    "correctAnswer": "A decir verdad, no me gusta."
+  },
+  {
+    "id": "es_275",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "To speak frankly I don't like him.",
+    "audioText": "",
+    "correctAnswer": "Hablando francamente, no me gusta."
+  },
+  {
+    "id": "es_276",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's quite a lot of work, actually.",
+    "audioText": "",
+    "correctAnswer": "Es bastante trabajo, en realidad."
+  },
+  {
+    "id": "es_277",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She can't speak English, much less French.",
+    "audioText": "",
+    "correctAnswer": "No sabe hablar ingl\u00e9s, y mucho menos franc\u00e9s."
+  },
+  {
+    "id": "es_278",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He did a lot for his people, but he could have done much more.",
+    "audioText": "",
+    "correctAnswer": "Hizo mucho por su gente, pero podr\u00eda haber hecho mucho m\u00e1s."
+  },
+  {
+    "id": "es_279",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He cannot speak English, much less French.",
+    "audioText": "",
+    "correctAnswer": "No puede hablar ingl\u00e9s, y mucho menos franc\u00e9s."
+  },
+  {
+    "id": "es_280",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom not only eats more than Mary does, but he also eats much faster.",
+    "audioText": "",
+    "correctAnswer": "Tom no solo come m\u00e1s que Mary, sino que tambi\u00e9n come mucho m\u00e1s r\u00e1pido."
+  },
+  {
+    "id": "es_281",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He is tall, but his brother is much taller.",
+    "audioText": "",
+    "correctAnswer": "\u00c9l es alto, pero su hermano es mucho m\u00e1s alto."
+  },
+  {
+    "id": "es_282",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He has much money but few friends.",
+    "audioText": "",
+    "correctAnswer": "Tiene mucho dinero pero pocos amigos."
+  },
+  {
+    "id": "es_283",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I can't read French, let alone speak it.",
+    "audioText": "",
+    "correctAnswer": "No s\u00e9 leer franc\u00e9s, y mucho menos hablarlo."
+  },
+  {
+    "id": "es_284",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please don't do that again.",
+    "audioText": "",
+    "correctAnswer": "Por favor, no vuelvas a hacer eso."
+  },
+  {
+    "id": "es_285",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I don't like coffee too much, but I tend to have a cup once in a while.",
+    "audioText": "",
+    "correctAnswer": "No me gusta demasiado el caf\u00e9, pero suelo tomar una taza de vez en cuando."
+  },
+  {
+    "id": "es_286",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He tried again and again, but didn't succeed.",
+    "audioText": "",
+    "correctAnswer": "Lo intent\u00f3 una y otra vez, pero no tuvo \u00e9xito."
+  },
+  {
+    "id": "es_287",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Every time that I see you, I think of my father.",
+    "audioText": "",
+    "correctAnswer": "Cada vez que te veo, pienso en mi padre."
+  },
+  {
+    "id": "es_288",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Every time I see you, I think of your father.",
+    "audioText": "",
+    "correctAnswer": "Cada vez que te veo, pienso en tu padre."
+  },
+  {
+    "id": "es_289",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Every time I see you, I think of your mother.",
+    "audioText": "",
+    "correctAnswer": "Cada vez que te veo, pienso en tu madre."
+  },
+  {
+    "id": "es_290",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you really want to know, all you have to do is ask.",
+    "audioText": "",
+    "correctAnswer": "Si realmente quieres saberlo, todo lo que tienes que hacer es preguntar."
+  },
+  {
+    "id": "es_291",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He never says thanks in spite of all that I've done for him.",
+    "audioText": "",
+    "correctAnswer": "Nunca da las gracias a pesar de todo lo que he hecho por \u00e9l."
+  },
+  {
+    "id": "es_292",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There's no-one in the house; they're all outside.",
+    "audioText": "",
+    "correctAnswer": "No hay nadie en la casa; est\u00e1n todos fuera."
+  },
+  {
+    "id": "es_293",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Believe it or not, there are people who like these stuff.",
+    "audioText": "",
+    "correctAnswer": "Lo creas o no, hay gente a la que le gustan estas cosas."
+  },
+  {
+    "id": "es_294",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There is very little wine in the bottle, if any.",
+    "audioText": "",
+    "correctAnswer": "Hay muy poco vino en la botella, si es que queda algo."
+  },
+  {
+    "id": "es_295",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There's quite a lot of things to do; do you want some help?",
+    "audioText": "",
+    "correctAnswer": "Hay bastantes cosas que hacer; \u00bfquieres ayuda?"
+  },
+  {
+    "id": "es_296",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "There is one, but it's a little far.",
+    "audioText": "",
+    "correctAnswer": "Hay uno, pero est\u00e1 un poco lejos."
+  },
+  {
+    "id": "es_297",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We can talk here, no problem.",
+    "audioText": "",
+    "correctAnswer": "Podemos hablar aqu\u00ed, no hay problema."
+  },
+  {
+    "id": "es_298",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom always wanted to visit Mary, but he never had the chance.",
+    "audioText": "",
+    "correctAnswer": "Tom siempre quiso visitar a Mary, pero nunca tuvo la oportunidad."
+  },
+  {
+    "id": "es_299",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Life never ends but earthly life does.",
+    "audioText": "",
+    "correctAnswer": "La vida nunca termina, pero la vida terrenal s\u00ed."
+  },
+  {
+    "id": "es_300",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please just tell me what it is you want to do.",
+    "audioText": "",
+    "correctAnswer": "Por favor, dime qu\u00e9 es lo que quieres hacer."
+  },
+  {
+    "id": "es_301",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That's good, isn't it?",
+    "audioText": "",
+    "correctAnswer": "Eso est\u00e1 bien, \u00bfno?"
+  },
+  {
+    "id": "es_302",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She didn't show up at the party, but nobody knows why.",
+    "audioText": "",
+    "correctAnswer": "Ella no apareci\u00f3 en la fiesta, pero nadie sabe por qu\u00e9."
+  },
+  {
+    "id": "es_303",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you don't like him, why were you talking to him?",
+    "audioText": "",
+    "correctAnswer": "Si no te gusta, \u00bfpor qu\u00e9 estabas hablando con \u00e9l?"
+  },
+  {
+    "id": "es_304",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you don't like him, why were you talking to him?",
+    "audioText": "",
+    "correctAnswer": "Si no te gusta, \u00bfpor qu\u00e9 estabas hablando con \u00e9l?"
+  },
+  {
+    "id": "es_305",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Everyone left, except for us.",
+    "audioText": "",
+    "correctAnswer": "Todos se fueron, excepto nosotros."
+  },
+  {
+    "id": "es_306",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom didn't feel well, but he went to work anyway.",
+    "audioText": "",
+    "correctAnswer": "Tom no se sent\u00eda bien, pero fue a trabajar de todos modos."
+  },
+  {
+    "id": "es_307",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Everyone went there, didn't they?",
+    "audioText": "",
+    "correctAnswer": "Todos fueron all\u00ed, \u00bfverdad?"
+  },
+  {
+    "id": "es_308",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'd like to go with you, but as it is I can't.",
+    "audioText": "",
+    "correctAnswer": "Me gustar\u00eda ir contigo, pero tal como est\u00e1n las cosas no puedo."
+  },
+  {
+    "id": "es_309",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Truth is like the moon, you can only see one side of it.",
+    "audioText": "",
+    "correctAnswer": "La verdad es como la luna, solo puedes ver un lado de ella."
+  },
+  {
+    "id": "es_310",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She lost her money, her family, her friends.",
+    "audioText": "",
+    "correctAnswer": "Perdi\u00f3 su dinero, su familia, sus amigos."
+  },
+  {
+    "id": "es_311",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "After her husband's death, she brought up the two children all by herself.",
+    "audioText": "",
+    "correctAnswer": "Tras la muerte de su marido, cri\u00f3 a los dos hijos ella sola."
+  },
+  {
+    "id": "es_312",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Working at home, parents can spend more time at home with their children.",
+    "audioText": "",
+    "correctAnswer": "Trabajando en casa, los padres pueden pasar m\u00e1s tiempo en casa con sus hijos."
+  },
+  {
+    "id": "es_313",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Your parents didn't come, did they?",
+    "audioText": "",
+    "correctAnswer": "Tus padres no vinieron, \u00bfverdad?"
+  },
+  {
+    "id": "es_314",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "At last, he realized his mistakes.",
+    "audioText": "",
+    "correctAnswer": "Por fin, se dio cuenta de sus errores."
+  },
+  {
+    "id": "es_315",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Despite the fact times changed, he maintains his revolutionary ideas.",
+    "audioText": "",
+    "correctAnswer": "A pesar de que los tiempos cambiaron, \u00e9l mantiene sus ideas revolucionarias."
+  },
+  {
+    "id": "es_316",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Generally, who visits their parents more, sons or daughters?",
+    "audioText": "",
+    "correctAnswer": "En general, \u00bfqui\u00e9n visita m\u00e1s a sus padres, los hijos o las hijas?"
+  },
+  {
+    "id": "es_317",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No, we have to go now.",
+    "audioText": "",
+    "correctAnswer": "No, tenemos que irnos ahora."
+  },
+  {
+    "id": "es_318",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You alone can do it, but you can't do it alone.",
+    "audioText": "",
+    "correctAnswer": "T\u00fa solo puedes hacerlo, pero no puedes hacerlo a solas."
+  },
+  {
+    "id": "es_319",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's not only me, it's the most.",
+    "audioText": "",
+    "correctAnswer": "No soy solo yo, es la mayor\u00eda."
+  },
+  {
+    "id": "es_320",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "By the time you got there, the sun had set.",
+    "audioText": "",
+    "correctAnswer": "Para cuando llegaste all\u00ed, el sol se hab\u00eda puesto."
+  },
+  {
+    "id": "es_321",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I got home, I found I had lost my wallet.",
+    "audioText": "",
+    "correctAnswer": "Cuando llegu\u00e9 a casa, me di cuenta de que hab\u00eda perdido la cartera."
+  },
+  {
+    "id": "es_322",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I got home, I found I had lost my wallet.",
+    "audioText": "",
+    "correctAnswer": "Cuando llegu\u00e9 a casa, me di cuenta de que hab\u00eda perdido la cartera."
+  },
+  {
+    "id": "es_323",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Since there wasn't any more room at the table, I had to eat standing up.",
+    "audioText": "",
+    "correctAnswer": "Como no hab\u00eda m\u00e1s sitio en la mesa, tuve que comer de pie."
+  },
+  {
+    "id": "es_324",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom had often heard about Mary, but hadn't yet met her.",
+    "audioText": "",
+    "correctAnswer": "Tom hab\u00eda o\u00eddo hablar a menudo de Mary, pero a\u00fan no la conoc\u00eda."
+  },
+  {
+    "id": "es_325",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom thought he was finished, but Mary told him that he wasn't.",
+    "audioText": "",
+    "correctAnswer": "Tom pens\u00f3 que hab\u00eda terminado, pero Mary le dijo que no."
+  },
+  {
+    "id": "es_326",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You know, I've never seen you with a guy before.",
+    "audioText": "",
+    "correctAnswer": "Sabes, nunca te hab\u00eda visto con un chico antes."
+  },
+  {
+    "id": "es_327",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I was feeding my dog, I noticed that the gate had been left open.",
+    "audioText": "",
+    "correctAnswer": "Cuando estaba alimentando a mi perro, not\u00e9 que la puerta se hab\u00eda quedado abierta."
+  },
+  {
+    "id": "es_328",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That's it. I'm outta here.",
+    "audioText": "",
+    "correctAnswer": "Eso es todo. Me largo de aqu\u00ed."
+  },
+  {
+    "id": "es_329",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I used to love her, but not anymore.",
+    "audioText": "",
+    "correctAnswer": "Sol\u00eda amarla, pero ya no."
+  },
+  {
+    "id": "es_330",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He doesn't know it yet, but he's already dead.",
+    "audioText": "",
+    "correctAnswer": "A\u00fan no lo sabe, pero ya est\u00e1 muerto."
+  },
+  {
+    "id": "es_331",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Now that you are no longer young, you must think of your future.",
+    "audioText": "",
+    "correctAnswer": "Ahora que ya no eres joven, debes pensar en tu futuro."
+  },
+  {
+    "id": "es_332",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please just leave me alone.",
+    "audioText": "",
+    "correctAnswer": "Por favor, d\u00e9jame solo."
+  },
+  {
+    "id": "es_333",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you need anything, just call.",
+    "audioText": "",
+    "correctAnswer": "Si necesitas algo, solo llama."
+  },
+  {
+    "id": "es_334",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "That child is only four, but he can already count to 100.",
+    "audioText": "",
+    "correctAnswer": "Ese ni\u00f1o solo tiene cuatro a\u00f1os, pero ya sabe contar hasta 100."
+  },
+  {
+    "id": "es_335",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom is just a friend, not my boyfriend.",
+    "audioText": "",
+    "correctAnswer": "Tom es solo un amigo, no mi novio."
+  },
+  {
+    "id": "es_336",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Just the other day, Tom and Mary came over for a visit.",
+    "audioText": "",
+    "correctAnswer": "Justo el otro d\u00eda, Tom y Mary vinieron de visita."
+  },
+  {
+    "id": "es_337",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "You haven't seen Tom today, have you?",
+    "audioText": "",
+    "correctAnswer": "No has visto a Tom hoy, \u00bfverdad?"
+  },
+  {
+    "id": "es_338",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom has left, but Mary is still here.",
+    "audioText": "",
+    "correctAnswer": "Tom se ha ido, pero Mary sigue aqu\u00ed."
+  },
+  {
+    "id": "es_339",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Yeah, it's been a long time.",
+    "audioText": "",
+    "correctAnswer": "S\u00ed, ha pasado mucho tiempo."
+  },
+  {
+    "id": "es_340",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Now that Mary has left, Tom is happier.",
+    "audioText": "",
+    "correctAnswer": "Ahora que Mary se ha ido, Tom es m\u00e1s feliz."
+  },
+  {
+    "id": "es_341",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Something's happened, hasn't it?",
+    "audioText": "",
+    "correctAnswer": "Ha pasado algo, \u00bfverdad?"
+  },
+  {
+    "id": "es_342",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He hasn't gone anywhere - he's at home.",
+    "audioText": "",
+    "correctAnswer": "No ha ido a ninguna parte, est\u00e1 en casa."
+  },
+  {
+    "id": "es_343",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As far as I know, he has never been overseas.",
+    "audioText": "",
+    "correctAnswer": "Que yo sepa, nunca ha estado en el extranjero."
+  },
+  {
+    "id": "es_344",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm sorry, but I don't want to talk about it.",
+    "audioText": "",
+    "correctAnswer": "Lo siento, pero no quiero hablar de ello."
+  },
+  {
+    "id": "es_345",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's getting late, so we'd better get going.",
+    "audioText": "",
+    "correctAnswer": "Se est\u00e1 haciendo tarde, as\u00ed que ser\u00e1 mejor que nos vayamos."
+  },
+  {
+    "id": "es_346",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The King invited not only us but also a lot of other people.",
+    "audioText": "",
+    "correctAnswer": "El Rey nos invit\u00f3 no solo a nosotros sino tambi\u00e9n a muchas otras personas."
+  },
+  {
+    "id": "es_347",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Instead of going ashore, we stayed on the ship.",
+    "audioText": "",
+    "correctAnswer": "En lugar de bajar a tierra, nos quedamos en el barco."
+  },
+  {
+    "id": "es_348",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "And actually, this project needs everyone.",
+    "audioText": "",
+    "correctAnswer": "Y, de hecho, este proyecto nos necesita a todos."
+  },
+  {
+    "id": "es_349",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It took us a long time, but finally we were able to find it.",
+    "audioText": "",
+    "correctAnswer": "Nos llev\u00f3 mucho tiempo, pero finalmente pudimos encontrarlo."
+  },
+  {
+    "id": "es_350",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The war kept us apart for so long, but not anymore.",
+    "audioText": "",
+    "correctAnswer": "La guerra nos mantuvo separados mucho tiempo, pero ya no."
+  },
+  {
+    "id": "es_351",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He gave us clothes, and money as well.",
+    "audioText": "",
+    "correctAnswer": "Nos dio ropa, y tambi\u00e9n dinero."
+  },
+  {
+    "id": "es_352",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We waited up for him until two o'clock and then finally went to bed.",
+    "audioText": "",
+    "correctAnswer": "Le esperamos hasta las dos y luego finalmente nos fuimos a la cama."
+  },
+  {
+    "id": "es_353",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Though living next door, he doesn't even say hello to us.",
+    "audioText": "",
+    "correctAnswer": "Aunque vive al lado, ni siquiera nos saluda."
+  },
+  {
+    "id": "es_354",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "It's not how much you know, but what you can do that counts.",
+    "audioText": "",
+    "correctAnswer": "No es cu\u00e1nto sabes, sino lo que puedes hacer lo que cuenta."
+  },
+  {
+    "id": "es_355",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "We have to do something, Tom.",
+    "audioText": "",
+    "correctAnswer": "Tenemos que hacer algo, Tom."
+  },
+  {
+    "id": "es_356",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you want something done right, you have to do it yourself.",
+    "audioText": "",
+    "correctAnswer": "Si quieres que algo salga bien, tienes que hacerlo t\u00fa mismo."
+  },
+  {
+    "id": "es_357",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If there's anything else you need, just let me know.",
+    "audioText": "",
+    "correctAnswer": "Si hay algo m\u00e1s que necesites, d\u00edmelo."
+  },
+  {
+    "id": "es_358",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As soon as you arrive, he will make something to eat.",
+    "audioText": "",
+    "correctAnswer": "En cuanto llegues, \u00e9l preparar\u00e1 algo de comer."
+  },
+  {
+    "id": "es_359",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As soon as you arrive, she will make something to eat.",
+    "audioText": "",
+    "correctAnswer": "En cuanto llegues, ella preparar\u00e1 algo de comer."
+  },
+  {
+    "id": "es_360",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If you want something done right, you should do it yourself.",
+    "audioText": "",
+    "correctAnswer": "Si quieres algo bien hecho, deber\u00edas hacerlo t\u00fa mismo."
+  },
+  {
+    "id": "es_361",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Without money, he could do nothing.",
+    "audioText": "",
+    "correctAnswer": "Sin dinero, no pudo hacer nada."
+  },
+  {
+    "id": "es_362",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please do not enter the room without knocking.",
+    "audioText": "",
+    "correctAnswer": "Por favor, no entres en la habitaci\u00f3n sin llamar."
+  },
+  {
+    "id": "es_363",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No matter how rich one may be, one cannot live happily without health.",
+    "audioText": "",
+    "correctAnswer": "Por muy rico que se sea, no se puede vivir feliz sin salud."
+  },
+  {
+    "id": "es_364",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "No matter what you do, do your best.",
+    "audioText": "",
+    "correctAnswer": "Hagas lo que hagas, da lo mejor de ti."
+  },
+  {
+    "id": "es_365",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I've heard that people can eat cat food without any harmful effects.",
+    "audioText": "",
+    "correctAnswer": "He o\u00eddo que la gente puede comer comida para gatos sin efectos da\u00f1inos."
+  },
+  {
+    "id": "es_366",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I cannot do without this dictionary even for a single day.",
+    "audioText": "",
+    "correctAnswer": "No puedo pasar sin este diccionario ni un solo d\u00eda."
+  },
+  {
+    "id": "es_367",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Whether you like her or not, you can't marry her.",
+    "audioText": "",
+    "correctAnswer": "Te guste o no, no puedes casarte con ella."
+  },
+  {
+    "id": "es_368",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She is not home, but at school.",
+    "audioText": "",
+    "correctAnswer": "No est\u00e1 en casa, sino en la escuela."
+  },
+  {
+    "id": "es_369",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She is not my mother but my oldest sister.",
+    "audioText": "",
+    "correctAnswer": "No es mi madre sino mi hermana mayor."
+  },
+  {
+    "id": "es_370",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If he had been a little more careful, he would have succeeded.",
+    "audioText": "",
+    "correctAnswer": "Si hubiera tenido un poco m\u00e1s de cuidado, lo habr\u00eda logrado."
+  },
+  {
+    "id": "es_371",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "A little louder, please.",
+    "audioText": "",
+    "correctAnswer": "Un poco m\u00e1s alto, por favor."
+  },
+  {
+    "id": "es_372",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please wait a little while longer.",
+    "audioText": "",
+    "correctAnswer": "Por favor, espera un poco m\u00e1s."
+  },
+  {
+    "id": "es_373",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "After a certain point, everything became a little more difficult.",
+    "audioText": "",
+    "correctAnswer": "A partir de cierto punto, todo se volvi\u00f3 un poco m\u00e1s dif\u00edcil."
+  },
+  {
+    "id": "es_374",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He who is not satisfied with a little, is satisfied with nothing.",
+    "audioText": "",
+    "correctAnswer": "El que no se conforma con poco, no se conforma con nada."
+  },
+  {
+    "id": "es_375",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Shortly after the war my father bought a new house, in which I was born.",
+    "audioText": "",
+    "correctAnswer": "Poco despu\u00e9s de la guerra mi padre compr\u00f3 una casa nueva, en la que nac\u00ed."
+  },
+  {
+    "id": "es_376",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please wait a little while longer.",
+    "audioText": "",
+    "correctAnswer": "Por favor, espera un poco m\u00e1s."
+  },
+  {
+    "id": "es_377",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "She said I am the one, but the kid is not my son.",
+    "audioText": "",
+    "correctAnswer": "Dijo que yo soy el indicado, pero el chico no es mi hijo."
+  },
+  {
+    "id": "es_378",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Despite everything she said to me, I can't stop thinking about her.",
+    "audioText": "",
+    "correctAnswer": "A pesar de todo lo que me dijo, no puedo dejar de pensar en ella."
+  },
+  {
+    "id": "es_379",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I want to buy things, the boy said.",
+    "audioText": "",
+    "correctAnswer": "Quiero comprar cosas, dijo el ni\u00f1o."
+  },
+  {
+    "id": "es_380",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He opened his mouth as if to speak, but didn't say anything.",
+    "audioText": "",
+    "correctAnswer": "Abri\u00f3 la boca como para hablar, pero no dijo nada."
+  },
+  {
+    "id": "es_381",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When I met her the other day she asked of my parents.",
+    "audioText": "",
+    "correctAnswer": "Cuando la conoc\u00ed el otro d\u00eda me pregunt\u00f3 por mis padres."
+  },
+  {
+    "id": "es_382",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When there's nothing left to do, what do you do?",
+    "audioText": "",
+    "correctAnswer": "Cuando no queda nada por hacer, \u00bfqu\u00e9 haces?"
+  },
+  {
+    "id": "es_383",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I realized that even though I wanted to eat, I didn't have enough time.",
+    "audioText": "",
+    "correctAnswer": "Me di cuenta de que aunque quer\u00eda comer, no ten\u00eda tiempo suficiente."
+  },
+  {
+    "id": "es_384",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He writes to his mother every now and then.",
+    "audioText": "",
+    "correctAnswer": "Le escribe a su madre de vez en cuando."
+  },
+  {
+    "id": "es_385",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "When you are away, I feel lost.",
+    "audioText": "",
+    "correctAnswer": "Cuando est\u00e1s lejos, me siento perdido."
+  },
+  {
+    "id": "es_386",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I am because you are, and therefore we are.",
+    "audioText": "",
+    "correctAnswer": "Yo soy porque t\u00fa eres, y por lo tanto nosotros somos."
+  },
+  {
+    "id": "es_387",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm not what I do, I am what I can do.",
+    "audioText": "",
+    "correctAnswer": "No soy lo que hago, soy lo que puedo hacer."
+  },
+  {
+    "id": "es_388",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "If this is the information age, what are we so well-informed about?",
+    "audioText": "",
+    "correctAnswer": "Si esta es la era de la informaci\u00f3n, \u00bfde qu\u00e9 estamos tan bien informados?"
+  },
+  {
+    "id": "es_389",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Tom shouted Mary's name as loud as he could, but she didn't hear him.",
+    "audioText": "",
+    "correctAnswer": "Tom grit\u00f3 el nombre de Mary tan fuerte como pudo, pero ella no lo oy\u00f3."
+  },
+  {
+    "id": "es_390",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "Please come as soon as possible.",
+    "audioText": "",
+    "correctAnswer": "Por favor, ven lo antes posible."
+  },
+  {
+    "id": "es_391",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "As soon as I got home, it began to rain.",
+    "audioText": "",
+    "correctAnswer": "En cuanto llegu\u00e9 a casa, empez\u00f3 a llover."
+  },
+  {
+    "id": "es_392",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I'm scared too, so I'm not going to go.",
+    "audioText": "",
+    "correctAnswer": "Yo tambi\u00e9n tengo miedo, as\u00ed que no voy a ir."
+  },
+  {
+    "id": "es_393",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He gave me food and money as well.",
+    "audioText": "",
+    "correctAnswer": "Me dio comida y tambi\u00e9n dinero."
+  },
+  {
+    "id": "es_394",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "This is also part of your work, as I told you before.",
+    "audioText": "",
+    "correctAnswer": "Esto tambi\u00e9n forma parte de tu trabajo, como te dije antes."
+  },
+  {
+    "id": "es_395",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I, too, have the right to speak.",
+    "audioText": "",
+    "correctAnswer": "Yo tambi\u00e9n tengo derecho a hablar."
+  },
+  {
+    "id": "es_396",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He can speak English, and French as well.",
+    "audioText": "",
+    "correctAnswer": "Sabe hablar ingl\u00e9s, y tambi\u00e9n franc\u00e9s."
+  },
+  {
+    "id": "es_397",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "I will go, provided the weather is clear.",
+    "audioText": "",
+    "correctAnswer": "Ir\u00e9, siempre que el tiempo est\u00e9 despejado."
+  },
+  {
+    "id": "es_398",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "The older you are, the more difficult it is to learn a language.",
+    "audioText": "",
+    "correctAnswer": "Cuanto m\u00e1s viejo eres, m\u00e1s dif\u00edcil es aprender un idioma."
+  },
+  {
+    "id": "es_399",
+    "type": "translate",
+    "instruction": "Traducir al espa\u00f1ol (Translate to Spanish)",
+    "prompt": "He who makes no mistakes makes nothing.",
+    "audioText": "",
+    "correctAnswer": "El que no comete errores no hace nada."
+  }
+]
