@@ -27,6 +27,7 @@ const generateTask = (q: any, allQuestions: any[], lang: string): Question => {
   // and handle Polish labels differently
   const nativeText = isSpanishTrack ? q.prompt : (q.prompt || '').replace(/[“”]/g, '').trim();
   const targetText = q.correctAnswer || '';
+  const nativeLang = isSpanishTrack ? 'en-US' : 'pl-PL';
 
   // 15% Match Pairs
   if (rand < 0.15 && allQuestions.length >= 5) {
@@ -43,7 +44,8 @@ const generateTask = (q: any, allQuestions: any[], lang: string): Question => {
           }))),
           audioText: 'Match the pairs',
           lang: langCode,
-          targetLang: langCode
+          targetLang: langCode,
+          nativeLang: nativeLang
       };
   }
 
@@ -64,7 +66,8 @@ const generateTask = (q: any, allQuestions: any[], lang: string): Question => {
         instruction: isSpanishTrack ? 'Listen and choose correct answer' : 'Odsłuchaj i wybierz poprawną odpowiedź',
         options,
         audioText: targetText,
-        lang: langCode
+        lang: langCode,
+        nativeLang: nativeLang
     };
   }
 
@@ -87,7 +90,8 @@ const generateTask = (q: any, allQuestions: any[], lang: string): Question => {
       instruction: isSpanishTrack ? 'Choose correct translation' : 'Wybierz poprawne tłumaczenie',
       options,
       audioText: targetText,
-      lang: langCode
+      lang: langCode,
+      nativeLang: nativeLang
     };
   }
 
@@ -109,7 +113,8 @@ const generateTask = (q: any, allQuestions: any[], lang: string): Question => {
         instruction: isSpanishTrack ? 'Translate to Spanish' : (lang === 'English' ? 'Ułóż zdanie po angielsku' : 'Ułóż zdanie po hiszpańsku'),
         distractors,
         audioText: targetText,
-        lang: langCode
+        lang: langCode,
+        nativeLang: nativeLang
       };
   }
 
@@ -120,7 +125,8 @@ const generateTask = (q: any, allQuestions: any[], lang: string): Question => {
     prompt: nativeText,
     instruction: isSpanishTrack ? 'Translate to Spanish' : ('Przetłumacz na ' + (lang === 'English' ? 'angielski' : 'hiszpański')),
     audioText: targetText,
-    lang: langCode
+    lang: langCode,
+    nativeLang: nativeLang
   };
 };
 
@@ -167,9 +173,11 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
 
     const getCategory = (lang: string, index: number) => {
         const prefix = lang === 'English' ? 'Angielski' : 'Hiszpański';
-        if (index < 50) return `${prefix} - Codzienne`;
-        if (index < 100) return `${prefix} - Biznesowe`;
-        if (index < 150) return `${prefix} - Slang`;
+        const multiplier = lang === 'English' ? 1 : 4; // User said Spanish has 4x more lines
+
+        if (index < 50 * multiplier) return `${prefix} - Codzienne`;
+        if (index < 100 * multiplier) return `${prefix} - Biznesowe`;
+        if (index < 150 * multiplier) return `${prefix} - Slang`;
         return `${prefix} - Ogólne`;
     };
 

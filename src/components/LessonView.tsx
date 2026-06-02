@@ -10,6 +10,7 @@ import ListenMatch from './ListenMatch';
 import { playAudio } from '../utils/audio';
 import { X, Volume2, ArrowRight, HelpCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import ErrorBoundary from './ErrorBoundary';
 
 interface LessonViewProps {
   lesson: Lesson;
@@ -76,6 +77,12 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
   const playQuestionAudio = () => {
     if (currentQuestion.audioText && currentQuestion.lang) {
       playAudio(currentQuestion.audioText, currentQuestion.lang);
+    }
+  };
+
+  const playPromptAudio = () => {
+    if (currentQuestion.prompt && currentQuestion.nativeLang) {
+      playAudio(currentQuestion.prompt, currentQuestion.nativeLang);
     }
   };
 
@@ -173,10 +180,12 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
       </header>
 
       <main className="flex-1 flex flex-col gap-8">
-        <Leon3D 
-          animationState={status === 'correct' ? 'jump_joy' : status === 'incorrect' ? 'facepalm' : 'idle'} 
-          showQuote={status === 'correct'}
-        />
+        <ErrorBoundary>
+          <Leon3D
+            animationState={status === 'correct' ? 'jump_joy' : status === 'incorrect' ? 'facepalm' : 'idle'}
+            showQuote={status === 'correct'}
+          />
+        </ErrorBoundary>
 
         <div className="flex-1 relative">
           <AnimatePresence mode="wait">
@@ -190,11 +199,11 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
                 <span className="px-4 py-1 bg-card border border-gray-800 rounded-full text-xs text-gray-500 uppercase tracking-widest font-bold">
                   {currentQuestion.instruction || 'Zadanie'}
                 </span>
-                {currentQuestion.audioText && currentQuestion.type !== 'listen-match' && (
+                {currentQuestion.prompt && currentQuestion.nativeLang && currentQuestion.type !== 'listen-match' && (
                   <button
-                    onClick={playQuestionAudio}
+                    onClick={playPromptAudio}
                     className="p-2 hover:bg-card rounded-full text-accent transition-colors"
-                    title="Słuchaj"
+                    title="Słuchaj polecenia"
                   >
                     <Volume2 size={20} />
                   </button>

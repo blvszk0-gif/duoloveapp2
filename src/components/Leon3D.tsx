@@ -1,81 +1,68 @@
-import { useRef, useEffect } from 'react';
-import { Canvas, useFrame } from '@react-three/fiber';
-import { OrbitControls, Html } from '@react-three/drei';
-import * as THREE from 'three';
+import { useGLTF, Float, Environment, PresentationControls } from '@react-three/drei';
+import { Canvas } from '@react-three/fiber';
+import { Suspense } from 'react';
+import { motion } from 'framer-motion';
 import { getRandomQuote } from '../utils/quotes';
 
-function LeonModel({ animationState }: { animationState: 'idle' | 'jump_joy' | 'facepalm' }) {
-  // Using a placeholder box for Leon Kennedy as I don't have the actual model file.
-  // In a real scenario, we would load the GLTF model here.
-  const group = useRef<THREE.Group>(null);
+function LeonModel() {
+  const { scene } = useGLTF('/models/duck.glb');
   
-  useFrame((state) => {
-    if (group.current) {
-      if (animationState === 'jump_joy') {
-        group.current.position.y = Math.abs(Math.sin(state.clock.elapsedTime * 10)) * 0.5;
-        group.current.rotation.y += 0.1;
-      } else if (animationState === 'facepalm') {
-        group.current.rotation.z = Math.sin(state.clock.elapsedTime * 5) * 0.2;
-      } else {
-        group.current.position.y = Math.sin(state.clock.elapsedTime) * 0.1;
-        group.current.rotation.y = Math.sin(state.clock.elapsedTime * 0.5) * 0.2;
-      }
-    }
-  });
-
   return (
-    <group ref={group}>
-      {/* Head */}
-      <mesh position={[0, 1.5, 0]}>
-        <sphereGeometry args={[0.3, 32, 32]} />
-        <meshStandardMaterial color="#ffdbac" />
-      </mesh>
-      {/* Body */}
-      <mesh position={[0, 0.7, 0]}>
-        <capsuleGeometry args={[0.3, 1, 4, 8]} />
-        <meshStandardMaterial color="#2c3e50" />
-      </mesh>
-      {/* Arms */}
-      <mesh position={[-0.5, 1, 0]}>
-        <boxGeometry args={[0.2, 0.6, 0.2]} />
-        <meshStandardMaterial color="#2c3e50" />
-      </mesh>
-      <mesh position={[0.5, 1, 0]}>
-        <boxGeometry args={[0.2, 0.6, 0.2]} />
-        <meshStandardMaterial color="#2c3e50" />
-      </mesh>
-    </group>
+    <Float speed={2} rotationIntensity={0.5} floatIntensity={0.5}>
+      <primitive
+        object={scene}
+          scale={0.15}
+          position={[-0.7, -1, 0]}
+        rotation={[0, -0.2, 0]}
+      />
+    </Float>
+  );
+}
+
+function FallbackMesh() {
+  return (
+    <mesh position={[0, 0, 0]}>
+      <sphereGeometry args={[0.8, 32, 32]} />
+      <meshStandardMaterial color="#3b82f6" emissive="#1d4ed8" emissiveIntensity={0.5} />
+    </mesh>
   );
 }
 
 interface Leon3DProps {
-  animationState: 'idle' | 'jump_joy' | 'facepalm';
-  showQuote: boolean;
+  animationState?: 'idle' | 'jump_joy' | 'facepalm';
+  showQuote?: boolean;
 }
 
-export default function Leon3D({ animationState, showQuote }: Leon3DProps) {
-  const quote = useRef(getRandomQuote());
-
-  useEffect(() => {
-    if (showQuote) {
-      quote.current = getRandomQuote();
-    }
-  }, [showQuote]);
-
+export default function Leon3D({ animationState: _animationState = 'idle', showQuote = false }: Leon3DProps) {
   return (
-    <div className="w-full h-64 relative">
-      <Canvas camera={{ position: [0, 1.5, 4], fov: 45 }}>
-        <ambientLight intensity={0.5} />
-        <pointLight position={[10, 10, 10]} />
-        <LeonModel animationState={animationState} />
-        {showQuote && (
-          <Html position={[0, 2.2, 0]} center>
-            <div className="bg-card text-text px-4 py-2 rounded-xl border-2 border-accent whitespace-nowrap animate-bounce shadow-lg">
-              {quote.current}
-            </div>
-          </Html>
-        )}
-        <OrbitControls enableZoom={false} />
+    <div className="w-full h-full min-h-[300px] cursor-grab active:cursor-grabbing relative">
+      {showQuote && (
+          <motion.div
+            initial={{ opacity: 0, scale: 0.5, y: 20 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            className="absolute top-0 left-1/2 -translate-x-1/2 z-50 bg-white text-black p-4 rounded-3xl rounded-bl-none shadow-2xl font-bold text-sm min-w-[150px] text-center"
+          >
+            "{getRandomQuote()}"
+            <div className="absolute -bottom-2 left-0 w-4 h-4 bg-white rotate-45" />
+          </motion.div>
+      )}
+      <Canvas camera={{ position: [0, 0, 5], fov: 45 }}>
+        <Suspense fallback={<FallbackMesh />}>
+          <ambientLight intensity={0.5} />
+          <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} />
+          <pointLight position={[-10, -10, -10]} />
+
+          <PresentationControls
+            global
+            rotation={[0, 0.3, 0]}
+            polar={[-Math.PI / 3, Math.PI / 3]}
+            azimuth={[-Math.PI / 1.4, Math.PI / 1.4]}
+          >
+            <LeonModel />
+          </PresentationControls>
+
+          <Environment preset="city" />
+        </Suspense>
       </Canvas>
     </div>
   );

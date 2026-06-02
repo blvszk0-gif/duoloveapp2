@@ -11,7 +11,7 @@ function App() {
   const [error, setError] = useState<string | null>(null)
   const [currentLesson, setCurrentLesson] = useState<Lesson | null>(null)
   const [completedLessonIds, setCompletedLessonIds] = useState<string[]>([])
-  const [lastScore, setLastScore] = useState<number | null>(null)
+  const [streak, setStreak] = useState<number>(0)
 
   useEffect(() => {
     const loadData = async () => {
@@ -33,10 +33,33 @@ function App() {
       setCompletedLessonIds(JSON.parse(savedCompleted))
     }
 
-    const savedScore = localStorage.getItem('duolove_last_score')
-    if (savedScore) {
-      setLastScore(parseInt(savedScore))
-    }
+    // Handle Streak
+    const updateStreak = () => {
+        const lastPlay = localStorage.getItem('duolove_last_play_date');
+        const currentStreak = parseInt(localStorage.getItem('duolove_streak') || '0');
+        const today = new Date().toDateString();
+
+        if (lastPlay === today) {
+            setStreak(currentStreak);
+            return;
+        }
+
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+
+        if (lastPlay === yesterday.toDateString()) {
+            const newStreak = currentStreak + 1;
+            localStorage.setItem('duolove_streak', newStreak.toString());
+            localStorage.setItem('duolove_last_play_date', today);
+            setStreak(newStreak);
+        } else {
+            localStorage.setItem('duolove_streak', '1');
+            localStorage.setItem('duolove_last_play_date', today);
+            setStreak(1);
+        }
+    };
+
+    updateStreak();
   }, [])
 
   const handleStartLesson = (lesson: Lesson) => {
@@ -50,8 +73,6 @@ function App() {
       localStorage.setItem('duolove_completed_lessons', JSON.stringify(newCompleted))
     }
 
-    localStorage.setItem('duolove_last_score', score.toString())
-    setLastScore(score)
     setCurrentLesson(null)
   }
 
@@ -85,11 +106,9 @@ function App() {
     <div className="min-h-screen bg-background text-text">
       {!currentLesson ? (
         <div className="container mx-auto">
-          {lastScore !== null && (
-            <div className="fixed top-4 right-4 p-3 bg-card rounded-xl border border-accent/30 text-sm z-50">
-              Last Session Score: <span className="text-accent font-bold">{lastScore}</span>
-            </div>
-          )}
+          <div className="fixed top-4 right-4 p-3 bg-card rounded-xl border border-accent/30 text-sm z-50 flex items-center gap-2 shadow-lg">
+            🔥 <span className="font-black text-accent">{streak}</span> dni pod rząd
+          </div>
           <Dashboard
             onStartLesson={handleStartLesson}
             completedLessonIds={completedLessonIds}
