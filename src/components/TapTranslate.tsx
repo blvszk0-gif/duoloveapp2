@@ -32,6 +32,7 @@ export default function TapTranslate({ prompt, correctAnswer, distractors, onAns
     }
   };
 
+  const normalize = (text: string) => text.trim().toLowerCase().replace(/[.,!?¿¡]/g, '');
   const currentAnswer = selectedWords.map(w => w.word).join(' ');
 
   return (
@@ -80,7 +81,7 @@ export default function TapTranslate({ prompt, correctAnswer, distractors, onAns
 
       <button
         disabled={disabled || selectedWords.length === 0}
-        onClick={() => onAnswer(currentAnswer === correctAnswer, currentAnswer)}
+        onClick={() => onAnswer(normalize(currentAnswer) === normalize(correctAnswer), currentAnswer)}
         className={`mt-4 px-12 py-4 rounded-2xl font-black text-lg shadow-xl transition-all transform active:scale-95 ${
           disabled || selectedWords.length === 0
             ? 'bg-gray-800 text-gray-600 cursor-not-allowed opacity-50'

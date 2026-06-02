@@ -30,8 +30,11 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
 
   const handleReset = () => {
     if (confirm('Czy na pewno chcesz zresetować cały postęp?')) {
-        localStorage.removeItem('duolove_completed_lessons');
-        localStorage.removeItem('duolove_last_score');
+        Object.keys(localStorage).forEach(key => {
+            if (key.startsWith('duolove_')) {
+                localStorage.removeItem(key);
+            }
+        });
         window.location.reload();
     }
   };
@@ -66,7 +69,7 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
         <div className="bg-card p-6 rounded-3xl border border-gray-800 shadow-xl">
           <div className="flex justify-between items-center mb-4">
             <span className="font-bold text-gray-400">Status nauki</span>
-            <span className="text-accent font-black">{Math.round(progress)}%</span>
+            <span className="text-accent font-black">{progress.toFixed(2)}%</span>
           </div>
           <div className="h-3 bg-gray-900 rounded-full overflow-hidden border border-gray-800 mb-2">
             <motion.div
@@ -77,7 +80,7 @@ export default function Dashboard({ onStartLesson, completedLessonIds, lessons }
             />
           </div>
           <p className="text-[10px] text-gray-500 text-center uppercase tracking-tighter">
-            {completedCount} z {totalLessons} lekcji ukończonych
+            {completedCount.toFixed(2)} z {totalLessons} lekcji ukończonych
           </p>
         </div>
       </aside>

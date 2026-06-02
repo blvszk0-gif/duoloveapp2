@@ -1,14 +1,17 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
+import { Volume2 } from 'lucide-react';
+import { playAudio } from '../utils/audio';
 
 interface MultipleChoiceProps {
   prompt: string;
   options: { id: string; text: string; correct: boolean }[];
   onAnswer: (isCorrect: boolean, text: string) => void;
   disabled?: boolean;
+  lang?: string;
 }
 
-export default function MultipleChoice({ prompt, options, onAnswer, disabled }: MultipleChoiceProps) {
+export default function MultipleChoice({ prompt, options, onAnswer, disabled, lang }: MultipleChoiceProps) {
   const [selectedId, setSelectedId] = useState<string | null>(null);
 
   const handleCheck = () => {
@@ -30,13 +33,25 @@ export default function MultipleChoice({ prompt, options, onAnswer, disabled }: 
             whileHover={!disabled ? { scale: 1.02 } : {}}
             whileTap={!disabled ? { scale: 0.98 } : {}}
             onClick={() => setSelectedId(option.id)}
-            className={`p-6 border-2 rounded-3xl text-lg font-bold transition-all text-left flex items-center justify-between ${
+            className={`p-6 border-2 rounded-3xl text-lg font-bold transition-all text-left flex items-center justify-between group ${
               selectedId === option.id
                 ? 'bg-accent/10 border-accent text-accent shadow-[0_0_15px_rgba(var(--color-accent),0.1)]'
                 : 'bg-card border-gray-800 text-text hover:border-gray-600'
             } ${disabled ? 'opacity-50 cursor-default' : ''}`}
           >
-            {option.text}
+            <div className="flex items-center gap-3">
+                {option.text}
+                <button
+                    type="button"
+                    onClick={(e) => {
+                        e.stopPropagation();
+                        playAudio(option.text, lang || 'en-US');
+                    }}
+                    className="p-1.5 hover:bg-white/10 rounded-lg text-gray-500 group-hover:text-accent transition-colors"
+                >
+                    <Volume2 size={18} />
+                </button>
+            </div>
             <div className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
               selectedId === option.id ? 'border-accent bg-accent' : 'border-gray-700'
             }`}>

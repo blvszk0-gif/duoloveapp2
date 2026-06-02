@@ -8,7 +8,7 @@ import MatchPairs from './MatchPairs';
 import Translate from './Translate';
 import ListenMatch from './ListenMatch';
 import { playAudio } from '../utils/audio';
-import { X, Volume2, ArrowRight, HelpCircle } from 'lucide-react';
+import { X, Volume2, ArrowRight } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import ErrorBoundary from './ErrorBoundary';
 
@@ -18,10 +18,9 @@ interface LessonViewProps {
 }
 
 export default function LessonView({ lesson, onExit }: LessonViewProps) {
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [score, setScore] = useState(0);
+  const [queue, setQueue] = useState<number[]>(lesson.questions.map((_, i) => i));
+  const [completedCount, setCompletedCount] = useState(0);
   const [status, setStatus] = useState<'idle' | 'correct' | 'incorrect'>('idle');
-  const [showHint, setShowHint] = useState(false);
   const [isResumed, setIsResumed] = useState(false);
 
   const SESSION_KEY = `duolove_session_${lesson.id}`;
@@ -29,28 +28,27 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
   useEffect(() => {
     const saved = localStorage.getItem(SESSION_KEY);
     if (saved) {
-      const { index, score: savedScore } = JSON.parse(saved);
-      if (index < lesson.questions.length) {
-        setCurrentIndex(index);
-        setScore(savedScore);
+      const { queue: savedQueue, completed } = JSON.parse(saved);
+      if (savedQueue && savedQueue.length > 0) {
+        setQueue(savedQueue);
+        setCompletedCount(completed);
         setIsResumed(true);
       }
     }
   }, [lesson.id, SESSION_KEY]);
 
   useEffect(() => {
-    localStorage.setItem(SESSION_KEY, JSON.stringify({ index: currentIndex, score }));
-  }, [currentIndex, score, SESSION_KEY]);
+    localStorage.setItem(SESSION_KEY, JSON.stringify({ queue, completed: completedCount }));
+  }, [queue, completedCount, SESSION_KEY]);
 
+  const currentIndex = queue[0];
   const currentQuestion = lesson.questions[currentIndex];
 
   const handleAnswer = (isCorrect: boolean) => {
     if (status !== 'idle') return;
 
     if (isCorrect) {
-      setScore(prev => prev + 1);
       setStatus('correct');
-      // Auto play audio on correct if it exists
       if (currentQuestion.audioText && currentQuestion.lang) {
           playAudio(currentQuestion.audioText, currentQuestion.lang);
       }
@@ -60,18 +58,24 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
   };
 
   const handleNext = () => {
-    if (currentIndex < lesson.questions.length - 1) {
-      setCurrentIndex(prev => prev + 1);
-      setStatus('idle');
-      setShowHint(false);
+    if (status === 'correct') {
+      setCompletedCount(prev => prev + 1);
+      const newQueue = queue.slice(1);
+      if (newQueue.length === 0) {
+        localStorage.removeItem(SESSION_KEY);
+        onExit(lesson.questions.length); // Full score if completed this way
+        return;
+      }
+      setQueue(newQueue);
     } else {
-      localStorage.removeItem(SESSION_KEY);
-      onExit(score);
+      // Repeat at the end
+      setQueue(prev => [...prev.slice(1), prev[0]]);
     }
+    setStatus('idle');
   };
 
   const handleManualExit = () => {
-    onExit(score);
+    onExit(completedCount);
   };
 
   const playQuestionAudio = () => {
@@ -118,6 +122,7 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
             options={currentQuestion.options!}
             onAnswer={handleAnswer}
             disabled={status !== 'idle'}
+            lang={currentQuestion.lang}
           />
         );
       case 'gap-fill':
@@ -158,7 +163,7 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
     }
   };
 
-  const progress = ((currentIndex + (status !== 'idle' ? 1 : 0)) / lesson.questions.length) * 100;
+  const progress = ((completedCount + (status === 'correct' ? 1 : 0)) / lesson.questions.length) * 100;
 
   return (
     <div className="min-h-screen flex flex-col max-w-4xl mx-auto p-4 pb-32">
@@ -213,26 +218,6 @@ export default function LessonView({ lesson, onExit }: LessonViewProps) {
             </motion.div>
           </AnimatePresence>
 
-          {currentQuestion.hint && status === 'idle' && (
-            <div className="mt-8 flex flex-col items-center">
-              {!showHint ? (
-                <button
-                  onClick={() => setShowHint(true)}
-                  className="flex items-center gap-2 text-gray-500 hover:text-accent transition-colors text-sm font-bold"
-                >
-                  <HelpCircle size={18} /> Pokaż podpowiedź
-                </button>
-              ) : (
-                <motion.div
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  className="bg-accent/10 border border-accent/20 p-4 rounded-2xl text-accent text-sm text-center max-w-sm"
-                >
-                  {currentQuestion.hint}
-                </motion.div>
-              )}
-            </div>
-          )}
         </div>
       </main>
 

@@ -14,8 +14,8 @@ export default function Translate({ prompt, correctAnswer, onAnswer, disabled }:
     e.preventDefault();
     if (disabled || !answer.trim()) return;
 
-    const isCorrect = answer.trim().toLowerCase().replace(/[.,!?]/g, '') ===
-                      correctAnswer.toLowerCase().replace(/[.,!?]/g, '');
+    const normalize = (text: string) => text.trim().toLowerCase().replace(/[.,!?¿¡]/g, '');
+    const isCorrect = normalize(answer) === normalize(correctAnswer);
     onAnswer(isCorrect, answer);
   };
 

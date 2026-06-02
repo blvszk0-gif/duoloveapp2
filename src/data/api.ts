@@ -200,6 +200,11 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
     }
 
     // Process Spanish
+    const validEsRaw = esRaw.filter(q =>
+        q.correctAnswer && !q.correctAnswer.includes("MYMEMORY WARNING") &&
+        q.prompt && !q.prompt.includes("MYMEMORY WARNING")
+    );
+
     const processedEs = esRaw.map(q => {
         const hasError = (q.correctAnswer && q.correctAnswer.includes("MYMEMORY WARNING")) ||
                          (q.prompt && q.prompt.includes("MYMEMORY WARNING"));
@@ -217,7 +222,7 @@ export const fetchLessons = async (): Promise<Lesson[]> => {
                 isPlaceholder: true
             } as Question;
         }
-        return generateTask(q, esRaw.filter(item => !item.correctAnswer?.includes("MYMEMORY")), 'Spanish');
+        return generateTask(q, validEsRaw, 'Spanish');
     });
 
     for (let i = 0; i < processedEs.length; i += CHUNK_SIZE) {

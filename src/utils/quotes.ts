@@ -7,7 +7,7 @@ export let SUCCESS_QUOTES = [
     "Zaszlachtowane",
     "Wynik będzie dosłany DHL-EM",
     "PERFEKCYJNIE!",
-    "I'm flattered, but mi one lady type of guy",
+    "I'm flattered, but im one lady type of guy",
     "Story of my life",
     "Gratuluję bułeczko cynamonowa",
     "I'm proud of you",
@@ -15,7 +15,7 @@ export let SUCCESS_QUOTES = [
     "YOU'RE THE CUTEST THING ON THE WHOLE WORLD- YES YOU ARE!",
     "Słodka",
     "Nie musi być przecież perfekcyjnie",
-    "Sometimes i feel like everyone i wotk with is an idiot and by sometimes i mean all times. All the time. Every of the times.",
+    "Sometimes i feel like everyone i work with is an idiot and by sometimes i mean all times. All the time. Every of the times.",
     "i have very little patience for stupidity",
     "Hey! Right back at you bitch .l.",
     "Where's everyone going? Bingo?",
@@ -30,7 +30,9 @@ export let SUCCESS_QUOTES = [
     "I don't ever remember being a part of your crappy script.",
     "How do I kill this thing?!",
     "Women...",
-    "Ślicznie wyglądasz :3"
+    "Ślicznie wyglądasz :3",
+    "Zajebie mu tą paletą, przysięgam",
+    "dzięki. 😐"
 ];
 
 export const setQuotes = (newQuotes: string[]) => {
